@@ -298,6 +298,330 @@
       "category": "Kainuwa white background 2"
     },
     {
+      "id": "icon-arrows-bent-arrow-right",
+      "type": "icon",
+      "name": "Bent Arrow Right",
+      "file": "icons/Arrows/Bent Arrow Right.svg",
+      "preview": "icons/Arrows/Bent Arrow Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-down",
+      "type": "icon",
+      "name": "Block Arrow Down",
+      "file": "icons/Arrows/Block Arrow Down.svg",
+      "preview": "icons/Arrows/Block Arrow Down.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-down-left",
+      "type": "icon",
+      "name": "Block Arrow Down Left",
+      "file": "icons/Arrows/Block Arrow Down Left.svg",
+      "preview": "icons/Arrows/Block Arrow Down Left.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-down-right",
+      "type": "icon",
+      "name": "Block Arrow Down Right",
+      "file": "icons/Arrows/Block Arrow Down Right.svg",
+      "preview": "icons/Arrows/Block Arrow Down Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-left",
+      "type": "icon",
+      "name": "Block Arrow Left",
+      "file": "icons/Arrows/Block Arrow Left.svg",
+      "preview": "icons/Arrows/Block Arrow Left.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-right",
+      "type": "icon",
+      "name": "Block Arrow Right",
+      "file": "icons/Arrows/Block Arrow Right.svg",
+      "preview": "icons/Arrows/Block Arrow Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-up",
+      "type": "icon",
+      "name": "Block Arrow Up",
+      "file": "icons/Arrows/Block Arrow Up.svg",
+      "preview": "icons/Arrows/Block Arrow Up.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-up-left",
+      "type": "icon",
+      "name": "Block Arrow Up Left",
+      "file": "icons/Arrows/Block Arrow Up Left.svg",
+      "preview": "icons/Arrows/Block Arrow Up Left.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-block-arrow-up-right",
+      "type": "icon",
+      "name": "Block Arrow Up Right",
+      "file": "icons/Arrows/Block Arrow Up Right.svg",
+      "preview": "icons/Arrows/Block Arrow Up Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-chevron-down",
+      "type": "icon",
+      "name": "Chevron Down",
+      "file": "icons/Arrows/Chevron Down.svg",
+      "preview": "icons/Arrows/Chevron Down.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-chevron-left",
+      "type": "icon",
+      "name": "Chevron Left",
+      "file": "icons/Arrows/Chevron Left.svg",
+      "preview": "icons/Arrows/Chevron Left.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-chevron-right",
+      "type": "icon",
+      "name": "Chevron Right",
+      "file": "icons/Arrows/Chevron Right.svg",
+      "preview": "icons/Arrows/Chevron Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-chevron-up",
+      "type": "icon",
+      "name": "Chevron Up",
+      "file": "icons/Arrows/Chevron Up.svg",
+      "preview": "icons/Arrows/Chevron Up.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-circular-arrow",
+      "type": "icon",
+      "name": "Circular Arrow",
+      "file": "icons/Arrows/Circular Arrow.svg",
+      "preview": "icons/Arrows/Circular Arrow.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-curved-arrow-down",
+      "type": "icon",
+      "name": "Curved Arrow Down",
+      "file": "icons/Arrows/Curved Arrow Down.svg",
+      "preview": "icons/Arrows/Curved Arrow Down.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-curved-arrow-right",
+      "type": "icon",
+      "name": "Curved Arrow Right",
+      "file": "icons/Arrows/Curved Arrow Right.svg",
+      "preview": "icons/Arrows/Curved Arrow Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-dashed-arrow-right",
+      "type": "icon",
+      "name": "Dashed Arrow Right",
+      "file": "icons/Arrows/Dashed Arrow Right.svg",
+      "preview": "icons/Arrows/Dashed Arrow Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-double-arrow-horizontal",
+      "type": "icon",
+      "name": "Double Arrow Horizontal",
+      "file": "icons/Arrows/Double Arrow Horizontal.svg",
+      "preview": "icons/Arrows/Double Arrow Horizontal.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-double-arrow-vertical",
+      "type": "icon",
+      "name": "Double Arrow Vertical",
+      "file": "icons/Arrows/Double Arrow Vertical.svg",
+      "preview": "icons/Arrows/Double Arrow Vertical.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-double-chevron-right",
+      "type": "icon",
+      "name": "Double Chevron Right",
+      "file": "icons/Arrows/Double Chevron Right.svg",
+      "preview": "icons/Arrows/Double Chevron Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-four-way-arrow",
+      "type": "icon",
+      "name": "Four Way Arrow",
+      "file": "icons/Arrows/Four Way Arrow.svg",
+      "preview": "icons/Arrows/Four Way Arrow.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-hand-drawn-arrow",
+      "type": "icon",
+      "name": "Hand Drawn Arrow",
+      "file": "icons/Arrows/Hand Drawn Arrow.svg",
+      "preview": "icons/Arrows/Hand Drawn Arrow.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-hand-drawn-curve-arrow",
+      "type": "icon",
+      "name": "Hand Drawn Curve Arrow",
+      "file": "icons/Arrows/Hand Drawn Curve Arrow.svg",
+      "preview": "icons/Arrows/Hand Drawn Curve Arrow.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-line-arrow-down",
+      "type": "icon",
+      "name": "Line Arrow Down",
+      "file": "icons/Arrows/Line Arrow Down.svg",
+      "preview": "icons/Arrows/Line Arrow Down.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-line-arrow-down-right",
+      "type": "icon",
+      "name": "Line Arrow Down Right",
+      "file": "icons/Arrows/Line Arrow Down Right.svg",
+      "preview": "icons/Arrows/Line Arrow Down Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-line-arrow-left",
+      "type": "icon",
+      "name": "Line Arrow Left",
+      "file": "icons/Arrows/Line Arrow Left.svg",
+      "preview": "icons/Arrows/Line Arrow Left.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-line-arrow-right",
+      "type": "icon",
+      "name": "Line Arrow Right",
+      "file": "icons/Arrows/Line Arrow Right.svg",
+      "preview": "icons/Arrows/Line Arrow Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-line-arrow-up",
+      "type": "icon",
+      "name": "Line Arrow Up",
+      "file": "icons/Arrows/Line Arrow Up.svg",
+      "preview": "icons/Arrows/Line Arrow Up.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-line-arrow-up-right",
+      "type": "icon",
+      "name": "Line Arrow Up Right",
+      "file": "icons/Arrows/Line Arrow Up Right.svg",
+      "preview": "icons/Arrows/Line Arrow Up Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-pennant-arrow-right",
+      "type": "icon",
+      "name": "Pennant Arrow Right",
+      "file": "icons/Arrows/Pennant Arrow Right.svg",
+      "preview": "icons/Arrows/Pennant Arrow Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-pointer-triangle-right",
+      "type": "icon",
+      "name": "Pointer Triangle Right",
+      "file": "icons/Arrows/Pointer Triangle Right.svg",
+      "preview": "icons/Arrows/Pointer Triangle Right.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-pointer-triangle-up",
+      "type": "icon",
+      "name": "Pointer Triangle Up",
+      "file": "icons/Arrows/Pointer Triangle Up.svg",
+      "preview": "icons/Arrows/Pointer Triangle Up.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-refresh-arrows",
+      "type": "icon",
+      "name": "Refresh Arrows",
+      "file": "icons/Arrows/Refresh Arrows.svg",
+      "preview": "icons/Arrows/Refresh Arrows.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-return-arrow",
+      "type": "icon",
+      "name": "Return Arrow",
+      "file": "icons/Arrows/Return Arrow.svg",
+      "preview": "icons/Arrows/Return Arrow.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-swap-arrows",
+      "type": "icon",
+      "name": "Swap Arrows",
+      "file": "icons/Arrows/Swap Arrows.svg",
+      "preview": "icons/Arrows/Swap Arrows.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
+      "id": "icon-arrows-u-turn-arrow",
+      "type": "icon",
+      "name": "U Turn Arrow",
+      "file": "icons/Arrows/U Turn Arrow.svg",
+      "preview": "icons/Arrows/U Turn Arrow.svg",
+      "sizeKb": 1,
+      "category": "Arrows"
+    },
+    {
       "id": "icon-kainuwa-icons-file-00000000295c71f49f016020536eb828",
       "type": "icon",
       "name": "File 00000000295c71f49f016020536eb828",
