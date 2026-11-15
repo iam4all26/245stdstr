@@ -6,6 +6,7 @@ Put files in these folders (a sub folder name becomes the category shown in the 
   backgrounds/<Category>/<name>.png
   icons/<Category>/<name>.svg
   shapes/<Category>/<name>.svg
+  images/<Category>/<name>.png
   transitions/<Category>/<name>.json
 
 You can also upload ONE zip into the folder incoming/ that contains these folders.
@@ -23,6 +24,7 @@ TYPES = {
     'backgrounds': ('background', {'.png', '.jpg', '.jpeg', '.webp'}),
     'icons': ('icon', {'.svg', '.png'}),
     'shapes': ('shape', {'.svg'}),
+    'images': ('image', {'.png', '.jpg', '.jpeg', '.webp', '.svg'}),
     'transitions': ('transition', {'.json'}),
 }
 
@@ -98,7 +100,7 @@ def main():
                     if os.path.exists(os.path.join(ROOT, cand)):
                         preview = cand
                         break
-                if not preview and kind in ('background', 'icon', 'shape'):
+                if not preview and kind in ('background', 'icon', 'shape', 'image'):
                     preview = rel
                 item = {
                     'id': prev.get('id') or (kind + '-' + slug((category + '-' if category else '') + stem)),
