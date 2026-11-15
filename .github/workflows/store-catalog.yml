@@ -1,0 +1,35 @@
+name: Build store catalog
+
+on:
+  push:
+    paths:
+      - 'fonts/**'
+      - 'backgrounds/**'
+      - 'icons/**'
+      - 'shapes/**'
+      - 'transitions/**'
+      - 'previews/**'
+      - 'incoming/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build catalog.json
+        run: python3 tools/build_catalog.py
+      - name: Save changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+          else
+            git commit -m "Update store catalog [skip ci]"
+            git push
+          fi

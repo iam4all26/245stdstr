@@ -1,0 +1,317 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kainuwa Store Admin</title>
+<style>
+:root{--bg:#0f0d17;--card:#1a1726;--line:#2c2740;--ink:#f1eefb;--mut:#9a94b4;--acc:#8b5cf6;--ok:#34d399;--bad:#f87171}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.4 system-ui,sans-serif;padding:16px;max-width:900px;margin:auto}
+h1{font-size:20px;margin:4px 0 12px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:12px;margin-bottom:12px}
+label{display:block;font-size:12px;color:var(--mut);margin:8px 0 3px}
+input,select,textarea,button{font:inherit;color:var(--ink);background:#120f1c;border:1px solid var(--line);border-radius:10px;padding:9px;width:100%}
+textarea{min-height:54px;resize:vertical}
+button{background:var(--acc);border:0;font-weight:600;cursor:pointer}
+button.ghost{background:transparent;border:1px solid var(--line)}
+button.del{background:#5b1d26}
+button:disabled{opacity:.5}
+.row{display:flex;gap:8px;align-items:center}.row>*{flex:1}
+.tabs{display:flex;gap:8px;margin-bottom:12px}.tabs button{background:transparent;border:1px solid var(--line)}.tabs button.on{background:var(--acc);border-color:var(--acc)}
+.item{display:flex;gap:10px}
+.thumb{width:78px;height:78px;flex:none;border-radius:10px;background:#120f1c;border:1px solid var(--line);display:flex;align-items:center;justify-content:center;overflow:hidden;font-size:26px}
+.thumb img{max-width:100%;max-height:100%}
+.f{flex:1;min-width:0}
+.small{font-size:12px;color:var(--mut)}
+#log{white-space:pre-wrap;font:12px/1.5 ui-monospace,monospace;color:var(--mut)}
+.ok{color:var(--ok)}.bad{color:var(--bad)}
+.chk{display:flex;align-items:center;gap:6px;margin-top:8px}.chk input{width:auto}
+.hide{display:none}
+</style>
+</head>
+<body>
+<h1>Kainuwa Store Admin</h1>
+
+<div class="card" id="setup">
+  <label>GitHub token (saved only in this browser)</label>
+  <input id="token" type="password" placeholder="Paste your token here" autocomplete="off">
+  <div class="row" style="margin-top:8px">
+    <input id="repo" value="Iam4all26/245stdstr">
+    <input id="branch" value="main">
+  </div>
+  <div class="row" style="margin-top:8px">
+    <button id="connect">Connect</button>
+    <button class="ghost" id="forget">Forget token</button>
+  </div>
+  <div class="small" id="status" style="margin-top:6px"></div>
+</div>
+
+<div id="main" class="hide">
+  <div class="tabs">
+    <button id="tabUp" class="on">Upload</button>
+    <button id="tabMg">Manage</button>
+  </div>
+
+  <div id="paneUp">
+    <div class="card">
+      <div class="row">
+        <div><label>Type</label>
+          <select id="upType">
+            <option value="font">Font</option>
+            <option value="background">Background</option>
+            <option value="icon">Icon</option>
+            <option value="shape">Shape</option>
+            <option value="transition">Transition</option>
+          </select></div>
+        <div><label>Category</label><input id="upCat" list="cats" placeholder="e.g. Display"></div>
+      </div>
+      <datalist id="cats"></datalist>
+      <label>Files (select many)</label>
+      <input id="upFiles" type="file" multiple>
+      <div class="chk"><input id="upPrem" type="checkbox"><span>Mark all as premium</span></div>
+    </div>
+    <div id="queue"></div>
+    <button id="publish" disabled>Publish uploads</button>
+  </div>
+
+  <div id="paneMg" class="hide">
+    <div class="card row">
+      <select id="fType"><option value="">All types</option><option>font</option><option>background</option><option>icon</option><option>shape</option><option>transition</option></select>
+      <input id="fSearch" placeholder="Search name or tag">
+    </div>
+    <div id="list"></div>
+    <button id="saveChanges" disabled>Save changes</button>
+  </div>
+
+  <div class="card" style="margin-top:12px"><div id="log"></div></div>
+</div>
+
+<script>
+const $=id=>document.getElementById(id);
+const FOLDER={font:'fonts',background:'backgrounds',icon:'icons',shape:'shapes',transition:'transitions'};
+let cfg={}, catalog={version:1,items:[]}, tree={}, queue=[], logEl=$('log');
+
+function log(m,c){const d=document.createElement('div');if(c)d.className=c;d.textContent=m;logEl.appendChild(d);}
+function slug(t){return t.toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
+function pretty(stem){let s=stem.replace(/[_\-]+/g,' ').replace(/([a-z])([A-Z])/g,'$1 $2').replace(/\s+/g,' ').trim();return s===s.toLowerCase()?s.replace(/\b\w/g,c=>c.toUpperCase()):s;}
+function cleanCat(c){return c.trim().replace(/[\\\/:*?"<>|]+/g,' ').replace(/\s+/g,' ');}
+function tagsOf(t){return t.split(',').map(x=>x.trim()).filter(Boolean);}
+
+async function api(path,opts={}){
+  const r=await fetch('https://api.github.com/repos/'+cfg.repo+path,{...opts,headers:{'Authorization':'Bearer '+cfg.token,'Accept':'application/vnd.github+json','Content-Type':'application/json',...(opts.headers||{})}});
+  if(!r.ok){let t='';try{t=(await r.json()).message}catch(e){}throw new Error(r.status+' '+t);}
+  return r;
+}
+
+async function connect(){
+  cfg={token:$('token').value.trim(),repo:$('repo').value.trim(),branch:$('branch').value.trim()||'main'};
+  if(!cfg.token){$('status').textContent='Paste your token first.';return;}
+  $('status').textContent='Connecting...';
+  try{
+    await loadAll();
+    try{localStorage.setItem('ks_admin',JSON.stringify(cfg));}catch(e){}
+    $('status').innerHTML='<span class="ok">Connected. '+catalog.items.length+' items in the store.</span>';
+    $('main').classList.remove('hide');
+    renderCats();renderList();
+  }catch(e){$('status').innerHTML='<span class="bad">'+e.message+'</span>';}
+}
+
+async function loadAll(){
+  const ref=await (await api('/git/ref/heads/'+cfg.branch)).json();
+  cfg.head=ref.object.sha;
+  const commit=await (await api('/git/commits/'+cfg.head)).json();
+  cfg.baseTree=commit.tree.sha;
+  const t=await (await api('/git/trees/'+cfg.baseTree+'?recursive=1')).json();
+  tree={};t.tree.forEach(e=>{if(e.type==='blob')tree[e.path]=e.sha;});
+  try{
+    const r=await api('/contents/catalog.json?ref='+cfg.branch,{headers:{'Accept':'application/vnd.github.raw'}});
+    const j=JSON.parse(await r.text());
+    catalog={version:1,items:Array.isArray(j)?j:(j.items||[])};
+  }catch(e){catalog={version:1,items:[]};}
+  catalog.items.forEach(i=>i._o=JSON.stringify(strip(i)));
+}
+function strip(i){const o={...i};delete o._o;delete o._del;return o;}
+
+function renderCats(){
+  const set=new Set(catalog.items.map(i=>i.category).filter(Boolean));
+  $('cats').innerHTML=[...set].sort().map(c=>'<option value="'+c.replace(/"/g,'&quot;')+'">').join('');
+}
+
+/* ---------- upload ---------- */
+$('upFiles').onchange=async()=>{
+  for(const f of $('upFiles').files){
+    const stem=f.name.replace(/\.[^.]+$/,'');
+    const q={file:f,name:pretty(stem),tags:'',desc:'',prem:$('upPrem').checked,url:URL.createObjectURL(f),fontFamily:null};
+    if($('upType').value==='font'){
+      try{const ff=new FontFace('up'+queue.length+'x'+Math.random().toString(36).slice(2,6),await f.arrayBuffer());await ff.load();document.fonts.add(ff);q.fontFamily=ff.family;}catch(e){}
+    }
+    queue.push(q);
+  }
+  $('upFiles').value='';renderQueue();
+};
+$('upPrem').onchange=()=>{queue.forEach(q=>q.prem=$('upPrem').checked);renderQueue();};
+$('upType').onchange=()=>{};
+
+function renderQueue(){
+  const box=$('queue');box.innerHTML='';
+  queue.forEach((q,idx)=>{
+    const d=document.createElement('div');d.className='card item';
+    const th=document.createElement('div');th.className='thumb';
+    if(q.fontFamily){th.style.fontFamily=q.fontFamily;th.textContent='Aa';}
+    else if(/\.(png|jpe?g|webp|svg)$/i.test(q.file.name)){const im=document.createElement('img');im.src=q.url;th.appendChild(im);}
+    else th.textContent='?';
+    const f=document.createElement('div');f.className='f';
+    f.innerHTML='<div class="small">'+q.file.name+' ('+Math.max(1,Math.round(q.file.size/1024))+' KB)</div>'+
+      '<label>Name</label><input data-k="name" value="">'+
+      '<label>Tags (comma separated)</label><input data-k="tags" value="">'+
+      '<label>Description</label><textarea data-k="desc"></textarea>'+
+      '<div class="chk"><input type="checkbox" data-k="prem"><span>Premium</span></div>'+
+      '<button class="ghost" style="margin-top:8px" data-rm="1">Remove</button>';
+    f.querySelector('[data-k=name]').value=q.name;
+    f.querySelector('[data-k=tags]').value=q.tags;
+    f.querySelector('[data-k=desc]').value=q.desc;
+    f.querySelector('[data-k=prem]').checked=q.prem;
+    f.addEventListener('input',e=>{const k=e.target.dataset.k;if(!k)return;q[k]=e.target.type==='checkbox'?e.target.checked:e.target.value;});
+    f.querySelector('[data-rm]').onclick=()=>{queue.splice(idx,1);renderQueue();};
+    d.append(th,f);box.appendChild(d);
+  });
+  $('publish').disabled=!queue.length;
+}
+
+function fontPreviewBlob(family){
+  const c=document.createElement('canvas');c.width=480;c.height=240;
+  const x=c.getContext('2d');x.fillStyle='#1a1726';x.fillRect(0,0,480,240);
+  x.fillStyle='#f1eefb';x.textAlign='center';x.textBaseline='middle';
+  x.font='96px "'+family+'"';x.fillText('Aa',240,95);
+  x.font='34px "'+family+'"';x.fillText('Kainuwa ɓɗƙƴ',240,185);
+  return new Promise(r=>c.toBlob(r,'image/png'));
+}
+function b64(blob){return new Promise(r=>{const fr=new FileReader();fr.onload=()=>r(fr.result.split(',')[1]);fr.readAsDataURL(blob);});}
+async function blobSha(blob){const r=await api('/git/blobs',{method:'POST',body:JSON.stringify({content:await b64(blob),encoding:'base64'})});return (await r.json()).sha;}
+
+async function commit(entries,message){
+  const cat=catalog.items.filter(i=>!i._del).map(strip);
+  entries.push({path:'catalog.json',mode:'100644',type:'blob',content:JSON.stringify({version:1,items:cat},null,2)+'\n'});
+  log('Creating commit...');
+  const t=await (await api('/git/trees',{method:'POST',body:JSON.stringify({base_tree:cfg.baseTree,tree:entries})})).json();
+  const c=await (await api('/git/commits',{method:'POST',body:JSON.stringify({message,tree:t.sha,parents:[cfg.head]})})).json();
+  await api('/git/refs/heads/'+cfg.branch,{method:'PATCH',body:JSON.stringify({sha:c.sha})});
+}
+
+$('publish').onclick=async()=>{
+  const type=$('upType').value, category=cleanCat($('upCat').value);
+  if(!category){alert('Type a category first.');return;}
+  $('publish').disabled=true;logEl.innerHTML='';
+  try{
+    await loadAll();
+    const entries=[];
+    for(const q of queue){
+      const stem=q.file.name.replace(/\.[^.]+$/,'');
+      const path=FOLDER[type]+'/'+category+'/'+q.file.name;
+      log('Uploading '+q.file.name+'...');
+      entries.push({path,mode:'100644',type:'blob',sha:await blobSha(q.file)});
+      let preview='';
+      if(type==='font'&&q.fontFamily){
+        preview='previews/'+stem+'.png';
+        entries.push({path:preview,mode:'100644',type:'blob',sha:await blobSha(await fontPreviewBlob(q.fontFamily))});
+      }else if(type!=='transition'){preview=path;}
+      let it=catalog.items.find(i=>i.file===path);
+      const fresh=!it;
+      if(fresh){
+        let id=type+'-'+slug(category+'-'+stem),n=2,base=id;
+        while(catalog.items.some(i=>i.id===id))id=base+'-'+(n++);
+        it={id,type,file:path};catalog.items.push(it);
+      }
+      Object.assign(it,{name:q.name.trim()||pretty(stem),preview,sizeKb:Math.max(1,Math.round(q.file.size/1024)),category});
+      const tg=tagsOf(q.tags);if(tg.length)it.tags=tg;else delete it.tags;
+      if(q.prem)it.premium=true;else delete it.premium;
+      if(q.desc.trim())it.description=q.desc.trim();else delete it.description;
+    }
+    await commit(entries,'Add '+queue.length+' store item(s)');
+    log('Done. '+queue.length+' item(s) published.','ok');
+    queue=[];renderQueue();await loadAll();renderCats();renderList();
+  }catch(e){log('Failed: '+e.message,'bad');}
+  $('publish').disabled=!queue.length;
+};
+
+/* ---------- manage ---------- */
+function renderList(){
+  const box=$('list');box.innerHTML='';
+  const ft=$('fType').value,fs=$('fSearch').value.toLowerCase();
+  catalog.items.forEach(it=>{
+    if(ft&&it.type!==ft)return;
+    if(fs&&!((it.name||'').toLowerCase().includes(fs)||(it.tags||[]).join(' ').toLowerCase().includes(fs)||(it.category||'').toLowerCase().includes(fs)))return;
+    const d=document.createElement('div');d.className='card item';
+    if(it._del)d.style.opacity='.45';
+    const th=document.createElement('div');th.className='thumb';
+    if(it.preview&&/\.(png|jpe?g|webp|svg)$/i.test(it.preview)){const im=document.createElement('img');im.loading='lazy';im.src='https://raw.githubusercontent.com/'+cfg.repo+'/'+cfg.branch+'/'+encodeURI(it.preview);th.appendChild(im);}
+    else th.textContent=it.type[0].toUpperCase();
+    const f=document.createElement('div');f.className='f';
+    f.innerHTML='<div class="small">'+it.type+' - '+it.file+'</div>'+
+      '<label>Name</label><input data-k="name">'+
+      '<label>Category</label><input data-k="category" list="cats">'+
+      '<label>Tags</label><input data-k="tags">'+
+      '<label>Description</label><textarea data-k="description"></textarea>'+
+      '<div class="chk"><input type="checkbox" data-k="premium"><span>Premium</span></div>'+
+      '<div class="chk"><input type="checkbox" data-k="_del"><span class="bad">Delete this item</span></div>';
+    f.querySelector('[data-k=name]').value=it.name||'';
+    f.querySelector('[data-k=category]').value=it.category||'';
+    f.querySelector('[data-k=tags]').value=(it.tags||[]).join(', ');
+    f.querySelector('[data-k=description]').value=it.description||'';
+    f.querySelector('[data-k=premium]').checked=!!it.premium;
+    f.querySelector('[data-k=_del]').checked=!!it._del;
+    f.addEventListener('input',e=>{
+      const k=e.target.dataset.k;if(!k)return;
+      if(k==='tags'){const t=tagsOf(e.target.value);if(t.length)it.tags=t;else delete it.tags;}
+      else if(k==='premium'){if(e.target.checked)it.premium=true;else delete it.premium;}
+      else if(k==='_del'){it._del=e.target.checked;d.style.opacity=it._del?'.45':'1';}
+      else if(k==='description'){if(e.target.value.trim())it.description=e.target.value;else delete it.description;}
+      else it[k]=e.target.value;
+      $('saveChanges').disabled=false;
+    });
+    d.append(th,f);box.appendChild(d);
+  });
+}
+$('fType').onchange=renderList;$('fSearch').oninput=renderList;
+
+$('saveChanges').onclick=async()=>{
+  $('saveChanges').disabled=true;logEl.innerHTML='';
+  try{
+    const entries=[];let changed=0;
+    for(const it of catalog.items){
+      if(it._del){
+        if(tree[it.file]){entries.push({path:it.file,mode:'100644',type:'blob',sha:null});}
+        const stem=it.file.split('/').pop().replace(/\.[^.]+$/,'');
+        if(it.type==='font'&&tree['previews/'+stem+'.png'])entries.push({path:'previews/'+stem+'.png',mode:'100644',type:'blob',sha:null});
+        changed++;continue;
+      }
+      const cat=cleanCat(it.category||'');
+      it.category=cat||undefined;if(!cat)delete it.category;
+      const folder=FOLDER[it.type];
+      const fname=it.file.split('/').pop();
+      const newPath=folder+'/'+(cat?cat+'/':'')+fname;
+      if(newPath!==it.file&&tree[it.file]){
+        entries.push({path:it.file,mode:'100644',type:'blob',sha:null});
+        entries.push({path:newPath,mode:'100644',type:'blob',sha:tree[it.file]});
+        if(it.preview===it.file)it.preview=newPath;
+        it.file=newPath;
+      }
+      if(JSON.stringify(strip(it))!==it._o)changed++;
+    }
+    if(!changed){log('Nothing changed.');return;}
+    await commit(entries,'Update store catalog ('+changed+' change(s))');
+    log('Saved '+changed+' change(s).','ok');
+    await loadAll();renderCats();renderList();
+  }catch(e){log('Failed: '+e.message,'bad');$('saveChanges').disabled=false;}
+};
+
+/* ---------- ui ---------- */
+$('tabUp').onclick=()=>{$('paneUp').classList.remove('hide');$('paneMg').classList.add('hide');$('tabUp').classList.add('on');$('tabMg').classList.remove('on');};
+$('tabMg').onclick=()=>{$('paneMg').classList.remove('hide');$('paneUp').classList.add('hide');$('tabMg').classList.add('on');$('tabUp').classList.remove('on');renderList();};
+$('connect').onclick=connect;
+$('forget').onclick=()=>{try{localStorage.removeItem('ks_admin');}catch(e){}$('token').value='';$('main').classList.add('hide');$('status').textContent='Token removed from this browser.';};
+try{const s=JSON.parse(localStorage.getItem('ks_admin')||'null');if(s){$('token').value=s.token;$('repo').value=s.repo;$('branch').value=s.branch;connect();}}catch(e){}
+</script>
+</body>
+</html>
