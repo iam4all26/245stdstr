@@ -1,10 +1,10 @@
 {
-  "latest_version": "1.0.0",
-  "min_version": "1.0.0",
+  "latest_version": "1.05",
+  "min_version": "1.0.5",
   "update_url": "https://github.com/Iam4all26/kainuwa-studio/releases/latest",
-  "update_notes": "",
+  "update_notes": "Ggggf",
   "maintenance": {
-    "on": false,
+    "on": true,
     "title": "Back soon",
     "message": "Kainuwa Studio is being updated. Please try again soon."
   },
