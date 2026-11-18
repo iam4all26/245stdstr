@@ -1,0 +1,198 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kainuwa Studio Control</title>
+<style>
+:root{--bg:#0f0b1f;--card:#1e1938;--card2:#2a2250;--ink:#f1edff;--mute:#b5abd6;--acc:#7351ff;--bad:#ff8a80;--ok:#7ee0a0}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.45 system-ui,sans-serif;padding:16px;max-width:720px;margin:auto}
+h1{font-size:20px;font-weight:600;margin:4px 0 14px}
+h2{font-size:15px;font-weight:600;margin:0 0 10px}
+.card{background:var(--card);border-radius:18px;padding:14px;margin-bottom:14px}
+label{display:block;font-size:12px;color:var(--mute);margin:10px 0 4px}
+input,textarea,select{width:100%;background:var(--card2);border:1px solid #3d3266;border-radius:12px;color:var(--ink);padding:10px;font:inherit}
+textarea{min-height:70px;resize:vertical}
+.row{display:flex;gap:10px}.row>*{flex:1}
+.chk{display:flex;align-items:center;gap:8px;margin-top:10px;font-size:14px;color:var(--ink)}
+.chk input{width:auto}
+button{background:var(--acc);color:#fff;border:0;border-radius:22px;padding:11px 16px;font:inherit;font-weight:500}
+button.sec{background:var(--card2)}button.del{background:#5a2330}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+pre{background:#0a0716;border-radius:12px;padding:10px;overflow:auto;font-size:12px;max-height:260px}
+.msg{border:1px solid #3d3266;border-radius:14px;padding:10px;margin-bottom:10px}
+.note{font-size:12px;color:var(--mute)}
+#status{margin-top:10px;font-size:14px}.err{color:var(--bad)}.good{color:var(--ok)}
+</style>
+</head>
+<body>
+<h1>Kainuwa Studio control</h1>
+
+<div class="card">
+  <h2>Versions</h2>
+  <div class="row">
+    <div><label>Latest version</label><input id="latest" placeholder="1.2.0" inputmode="decimal"></div>
+    <div><label>Oldest allowed (force update below this)</label><input id="min" placeholder="1.0.0" inputmode="decimal"></div>
+  </div>
+  <label>Update link (download or release page)</label><input id="url" placeholder="https://...">
+  <label>Update notes (optional)</label><textarea id="notes"></textarea>
+</div>
+
+<div class="card">
+  <h2>Maintenance</h2>
+  <div class="chk"><input type="checkbox" id="mOn"><span>Block the app for everyone</span></div>
+  <label>Title</label><input id="mTitle">
+  <label>Message</label><textarea id="mMsg"></textarea>
+</div>
+
+<div class="card">
+  <h2>Messages</h2>
+  <div id="msgs"></div>
+  <button class="sec" onclick="addMsg()">Add message</button>
+</div>
+
+<div class="card">
+  <h2>Publish</h2>
+  <div class="bar">
+    <button class="sec" onclick="loadCurrent()">Load current from GitHub</button>
+    <button class="sec" onclick="copyJson()">Copy JSON</button>
+    <button class="sec" onclick="downloadJson()">Download file</button>
+  </div>
+  <label>GitHub token (optional, only for the Publish button; stays on this page and is never saved)</label>
+  <input id="token" type="password" autocomplete="off" placeholder="fine-grained token, Contents: write on 245stdstr only">
+  <div class="bar"><button onclick="publish()">Publish to GitHub</button></div>
+  <p class="note">Without a token: copy or download the JSON and upload it as app_control.json in the root of Iam4all26/245stdstr with K-Git Studio.</p>
+  <div id="status"></div>
+  <label>Preview</label>
+  <pre id="out"></pre>
+</div>
+
+<script>
+const REPO='Iam4all26/245stdstr', BRANCH='main', FILE='app_control.json';
+const RAW='https://raw.githubusercontent.com/'+REPO+'/'+BRANCH+'/'+FILE;
+let messages=[];
+const $=id=>document.getElementById(id);
+const VER=/^\d+(\.\d+){0,2}$/;
+
+function esc(s){return String(s??'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;')}
+function newId(){return 'msg-'+Date.now().toString(36)}
+function today(offsetDays){const d=new Date(Date.now()+offsetDays*864e5);return d.toISOString().slice(0,10)}
+
+function addMsg(m){
+  messages.push(m||{id:newId(),enabled:true,title:'',body:'',start:today(0),end:today(14),min_version:'',max_version:'',link:'',link_label:'Open',once:true,dismissible:true});
+  render();
+}
+function delMsg(i){messages.splice(i,1);render()}
+function setMsg(i,k,v){messages[i][k]=v;refresh()}
+
+function render(){
+  $('msgs').innerHTML=messages.map((m,i)=>`
+  <div class="msg">
+    <div class="row"><div><label>Id (change it to show again)</label><input value="${esc(m.id)}" oninput="setMsg(${i},'id',this.value)"></div></div>
+    <label>Title</label><input value="${esc(m.title)}" oninput="setMsg(${i},'title',this.value)">
+    <label>Text</label><textarea oninput="setMsg(${i},'body',this.value)">${esc(m.body)}</textarea>
+    <div class="row">
+      <div><label>Show from</label><input type="date" value="${esc(m.start)}" oninput="setMsg(${i},'start',this.value)"></div>
+      <div><label>Until (inclusive)</label><input type="date" value="${esc(m.end)}" oninput="setMsg(${i},'end',this.value)"></div>
+    </div>
+    <div class="row">
+      <div><label>Only versions from</label><input value="${esc(m.min_version)}" placeholder="all" oninput="setMsg(${i},'min_version',this.value)"></div>
+      <div><label>Only versions up to</label><input value="${esc(m.max_version)}" placeholder="all" oninput="setMsg(${i},'max_version',this.value)"></div>
+    </div>
+    <div class="row">
+      <div><label>Link (optional)</label><input value="${esc(m.link)}" oninput="setMsg(${i},'link',this.value)"></div>
+      <div><label>Link button text</label><input value="${esc(m.link_label)}" oninput="setMsg(${i},'link_label',this.value)"></div>
+    </div>
+    <div class="chk"><input type="checkbox" ${m.enabled?'checked':''} onchange="setMsg(${i},'enabled',this.checked)"><span>Enabled</span></div>
+    <div class="chk"><input type="checkbox" ${m.once?'checked':''} onchange="setMsg(${i},'once',this.checked)"><span>Show only once per phone</span></div>
+    <div class="chk"><input type="checkbox" ${m.dismissible?'checked':''} onchange="setMsg(${i},'dismissible',this.checked)"><span>User can close it</span></div>
+    <div class="bar"><button class="del" onclick="delMsg(${i})">Delete</button></div>
+  </div>`).join('')||'<p class="note">No messages.</p>';
+  refresh();
+}
+
+function build(){
+  return {
+    latest_version:$('latest').value.trim(),
+    min_version:$('min').value.trim(),
+    update_url:$('url').value.trim(),
+    update_notes:$('notes').value.trim(),
+    maintenance:{on:$('mOn').checked,title:$('mTitle').value.trim()||'Back soon',message:$('mMsg').value.trim()||'Kainuwa Studio is being updated. Please try again soon.'},
+    messages:messages.map(m=>({id:m.id.trim(),enabled:!!m.enabled,title:m.title,body:m.body,start:m.start||'',end:m.end||'',min_version:(m.min_version||'').trim(),max_version:(m.max_version||'').trim(),link:(m.link||'').trim(),link_label:m.link_label||'Open',once:!!m.once,dismissible:!!m.dismissible}))
+  };
+}
+
+function cmp(a,b){const x=a.split('.').map(Number),y=b.split('.').map(Number);for(let i=0;i<3;i++){const p=x[i]||0,q=y[i]||0;if(p!==q)return p-q}return 0}
+
+function problems(d){
+  const p=[];
+  if(d.latest_version&&!VER.test(d.latest_version))p.push('Latest version must look like 1.2.0.');
+  if(d.min_version&&!VER.test(d.min_version))p.push('Oldest allowed must look like 1.0.0.');
+  if(VER.test(d.latest_version)&&VER.test(d.min_version)&&cmp(d.min_version,d.latest_version)>0)p.push('Oldest allowed is higher than latest.');
+  if(d.min_version&&cmp(d.min_version,'0.0.1')>0&&!/^https?:\/\//.test(d.update_url))p.push('Forcing an update needs an update link that starts with https://.');
+  const ids=new Set();
+  d.messages.forEach((m,i)=>{
+    if(!m.id)p.push('Message '+(i+1)+' needs an id.');
+    else if(ids.has(m.id))p.push('Message id "'+m.id+'" is used twice.');
+    ids.add(m.id);
+    if(!m.title&&!m.body)p.push('Message '+(i+1)+' is empty.');
+    if(m.link&&!/^https?:\/\//.test(m.link))p.push('Message '+(i+1)+': link must start with https://.');
+    if(m.min_version&&!VER.test(m.min_version))p.push('Message '+(i+1)+': version from is not valid.');
+    if(m.max_version&&!VER.test(m.max_version))p.push('Message '+(i+1)+': version up to is not valid.');
+  });
+  return p;
+}
+
+function refresh(){
+  const d=build();
+  $('out').textContent=JSON.stringify(d,null,2);
+  const p=problems(d);
+  $('status').innerHTML=p.length?'<span class="err">'+p.map(esc).join('<br>')+'</span>':'';
+}
+['latest','min','url','notes','mOn','mTitle','mMsg'].forEach(id=>{$(id).addEventListener('input',refresh);$(id).addEventListener('change',refresh)});
+
+function fill(d){
+  $('latest').value=d.latest_version||'';$('min').value=d.min_version||'';$('url').value=d.update_url||'';$('notes').value=d.update_notes||'';
+  const m=d.maintenance||{};$('mOn').checked=!!m.on;$('mTitle').value=m.title||'Back soon';$('mMsg').value=m.message||'';
+  messages=(d.messages||[]).map(x=>({id:x.id||newId(),enabled:x.enabled!==false,title:x.title||'',body:x.body||'',start:x.start||'',end:x.end||'',min_version:x.min_version||'',max_version:x.max_version||'',link:x.link||'',link_label:x.link_label||'Open',once:x.once!==false,dismissible:x.dismissible!==false}));
+  render();
+}
+
+function say(t,ok){$('status').innerHTML='<span class="'+(ok?'good':'err')+'">'+esc(t)+'</span>'}
+
+async function loadCurrent(){
+  try{const r=await fetch(RAW+'?t='+Date.now());if(!r.ok)throw new Error('HTTP '+r.status);fill(await r.json());say('Loaded the current file.',true)}
+  catch(e){say('Could not load: '+e.message,false)}
+}
+async function copyJson(){
+  try{await navigator.clipboard.writeText(JSON.stringify(build(),null,2));say('Copied.',true)}catch(e){say('Copy failed. Select the preview text instead.',false)}
+}
+function downloadJson(){
+  const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([JSON.stringify(build(),null,2)],{type:'application/json'}));a.download=FILE;a.click();
+}
+function b64(s){return btoa(unescape(encodeURIComponent(s)))}
+async function publish(){
+  const d=build(),p=problems(d);
+  if(p.length){say('Fix first: '+p[0],false);return}
+  const token=$('token').value.trim();
+  if(!token){say('Paste a token, or use Copy / Download and upload with K-Git Studio.',false);return}
+  const api='https://api.github.com/repos/'+REPO+'/contents/'+FILE;
+  const h={Authorization:'Bearer '+token,Accept:'application/vnd.github+json'};
+  try{
+    let sha;
+    const g=await fetch(api+'?ref='+BRANCH,{headers:h});
+    if(g.ok)sha=(await g.json()).sha;else if(g.status!==404)throw new Error('GitHub said '+g.status+' (check the token)');
+    const body={message:'Update app control',content:b64(JSON.stringify(d,null,2)+'\n'),branch:BRANCH};
+    if(sha)body.sha=sha;
+    const r=await fetch(api,{method:'PUT',headers:h,body:JSON.stringify(body)});
+    if(!r.ok)throw new Error('GitHub said '+r.status+(r.status===403||r.status===404?' (token needs Contents: write on the store repo)':''));
+    say('Published. Phones see it within a few minutes.',true);
+  }catch(e){say(e.message,false)}
+}
+
+fill({latest_version:'',min_version:'',update_url:'',update_notes:'',maintenance:{on:false},messages:[]});
+loadCurrent();
+</script>
+</body>
+</html>

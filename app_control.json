@@ -1,0 +1,27 @@
+{
+  "latest_version": "1.0.0",
+  "min_version": "1.0.0",
+  "update_url": "https://github.com/Iam4all26/kainuwa-studio/releases/latest",
+  "update_notes": "",
+  "maintenance": {
+    "on": false,
+    "title": "Back soon",
+    "message": "Kainuwa Studio is being updated. Please try again soon."
+  },
+  "messages": [
+    {
+      "id": "welcome-1",
+      "enabled": true,
+      "title": "Welcome",
+      "body": "Thank you for using Kainuwa Studio.",
+      "start": "2026-11-18",
+      "end": "2026-12-31",
+      "min_version": "",
+      "max_version": "",
+      "link": "",
+      "link_label": "Open",
+      "once": true,
+      "dismissible": true
+    }
+  ]
+}
