@@ -4,7 +4,7 @@
   "update_url": "https://github.com/Iam4all26/kainuwa-studio/releases/latest",
   "update_notes": "Ggggf",
   "maintenance": {
-    "on": true,
+    "on": false,
     "title": "Back soon",
     "message": "Kainuwa Studio is being updated. Please try again soon."
   },
