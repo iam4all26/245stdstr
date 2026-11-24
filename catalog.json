@@ -4,15 +4,15 @@
     {
       "id": "bg-001",
       "type": "background",
-      "name": "Background 1",
+      "name": "Parchment Gold Wave",
       "file": "backgrounds/1001436003.png",
       "preview": "backgrounds/1001436003.png",
-      "sizeKb": 161
+      "sizeKb": 1169
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-01",
       "type": "background",
-      "name": "Kainuwa Background 01",
+      "name": "Design Studio Purple",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_01.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_01.png",
       "sizeKb": 605,
@@ -21,7 +21,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-04",
       "type": "background",
-      "name": "Kainuwa Background 04",
+      "name": "Laptop Code Corner",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_04.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_04.png",
       "sizeKb": 806,
@@ -30,7 +30,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-05",
       "type": "background",
-      "name": "Kainuwa Background 05",
+      "name": "Android Laptop Wave",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_05.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_05.png",
       "sizeKb": 576,
@@ -39,7 +39,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-06",
       "type": "background",
-      "name": "Kainuwa Background 06",
+      "name": "Android Soft Corner",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_06.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_06.png",
       "sizeKb": 585,
@@ -48,7 +48,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-07",
       "type": "background",
-      "name": "Kainuwa Background 07",
+      "name": "Flutter Circuit Phone",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_07.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_07.png",
       "sizeKb": 591,
@@ -57,7 +57,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-08",
       "type": "background",
-      "name": "Kainuwa Background 08",
+      "name": "Flutter App Showcase",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_08.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_08.png",
       "sizeKb": 722,
@@ -66,7 +66,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-09",
       "type": "background",
-      "name": "Kainuwa Background 09",
+      "name": "Flutter Phone Gears",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_09.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_09.png",
       "sizeKb": 612,
@@ -75,7 +75,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-10",
       "type": "background",
-      "name": "Kainuwa Background 10",
+      "name": "Android Network Phone",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_10.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_10.png",
       "sizeKb": 666,
@@ -84,7 +84,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-11",
       "type": "background",
-      "name": "Kainuwa Background 11",
+      "name": "Laptop Android Minimal",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_11.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_11.png",
       "sizeKb": 575,
@@ -93,7 +93,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-12",
       "type": "background",
-      "name": "Kainuwa Background 12",
+      "name": "Dev Tools Column",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_12.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_12.png",
       "sizeKb": 473,
@@ -102,7 +102,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-14",
       "type": "background",
-      "name": "Kainuwa Background 14",
+      "name": "Flutter Laptop Stack",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_14.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_14.png",
       "sizeKb": 667,
@@ -111,7 +111,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-15",
       "type": "background",
-      "name": "Kainuwa Background 15",
+      "name": "Android Studio Podium",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_15.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_15.png",
       "sizeKb": 687,
@@ -120,7 +120,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-16",
       "type": "background",
-      "name": "Kainuwa Background 16",
+      "name": "Wireframe Phone Layers",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_16.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_16.png",
       "sizeKb": 704,
@@ -129,7 +129,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-17",
       "type": "background",
-      "name": "Kainuwa Background 17",
+      "name": "Android Phone Hexagons",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_17.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_17.png",
       "sizeKb": 492,
@@ -138,7 +138,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-18",
       "type": "background",
-      "name": "Kainuwa Background 18",
+      "name": "Design Pen Palette",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_18.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_18.png",
       "sizeKb": 604,
@@ -147,7 +147,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-19",
       "type": "background",
-      "name": "Kainuwa Background 19",
+      "name": "Pen Tool Typography",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_19.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_19.png",
       "sizeKb": 602,
@@ -156,7 +156,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-20",
       "type": "background",
-      "name": "Kainuwa Background 20",
+      "name": "Android Frame Lines",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_20.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_20.png",
       "sizeKb": 743,
@@ -165,7 +165,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-21",
       "type": "background",
-      "name": "Kainuwa Background 21",
+      "name": "Android Code Window",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_21.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_21.png",
       "sizeKb": 541,
@@ -174,7 +174,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-22",
       "type": "background",
-      "name": "Kainuwa Background 22",
+      "name": "Android Phone Podium",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_22.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_22.png",
       "sizeKb": 579,
@@ -183,7 +183,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-23",
       "type": "background",
-      "name": "Kainuwa Background 23",
+      "name": "Flutter Phone Podium",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_23.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_23.png",
       "sizeKb": 527,
@@ -192,7 +192,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-24",
       "type": "background",
-      "name": "Kainuwa Background 24",
+      "name": "Network Phone Blocks",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_24.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_24.png",
       "sizeKb": 619,
@@ -201,7 +201,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-25",
       "type": "background",
-      "name": "Kainuwa Background 25",
+      "name": "Flutter Phone Play Store",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_25.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_25.png",
       "sizeKb": 480,
@@ -210,7 +210,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-26",
       "type": "background",
-      "name": "Kainuwa Background 26",
+      "name": "App Design Phone Duo",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_26.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_26.png",
       "sizeKb": 589,
@@ -219,7 +219,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-27",
       "type": "background",
-      "name": "Kainuwa Background 27",
+      "name": "Android Circuit Light",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_27.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_27.png",
       "sizeKb": 605,
@@ -228,7 +228,7 @@
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-28",
       "type": "background",
-      "name": "Kainuwa Background 28",
+      "name": "Android Laptop Plant",
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_28.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_28.png",
       "sizeKb": 507,
@@ -237,7 +237,7 @@
     {
       "id": "background-kainuwa-white-background-2-file-000000003ac881f4a5e3bc91af0b2b08",
       "type": "background",
-      "name": "File 000000003ac881f4a5e3bc91af0b2b08",
+      "name": "Flutter App Stage",
       "file": "backgrounds/Kainuwa white background 2/file_000000003ac881f4a5e3bc91af0b2b08.png",
       "preview": "backgrounds/Kainuwa white background 2/file_000000003ac881f4a5e3bc91af0b2b08.png",
       "sizeKb": 508,
@@ -246,7 +246,7 @@
     {
       "id": "background-kainuwa-white-background-2-file-00000000805882109115115b93a513ec",
       "type": "background",
-      "name": "File 00000000805882109115115b93a513ec",
+      "name": "Android Studio Laptop",
       "file": "backgrounds/Kainuwa white background 2/file_00000000805882109115115b93a513ec.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000805882109115115b93a513ec.png",
       "sizeKb": 478,
@@ -255,7 +255,7 @@
     {
       "id": "background-kainuwa-white-background-2-file-00000000bac48243b628bb865eae8a5f",
       "type": "background",
-      "name": "File 00000000bac48243b628bb865eae8a5f",
+      "name": "Play Store Flutter Phone",
       "file": "backgrounds/Kainuwa white background 2/file_00000000bac48243b628bb865eae8a5f.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000bac48243b628bb865eae8a5f.png",
       "sizeKb": 384,
@@ -264,7 +264,7 @@
     {
       "id": "background-kainuwa-white-background-2-file-00000000c4048210b1a80cb40645b0c3",
       "type": "background",
-      "name": "File 00000000c4048210b1a80cb40645b0c3",
+      "name": "Flutter Plant Laptop Phone",
       "file": "backgrounds/Kainuwa white background 2/file_00000000c4048210b1a80cb40645b0c3.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000c4048210b1a80cb40645b0c3.png",
       "sizeKb": 466,
@@ -273,7 +273,7 @@
     {
       "id": "background-kainuwa-white-background-2-file-00000000ef2081f4b41e790bd577522f",
       "type": "background",
-      "name": "File 00000000ef2081f4b41e790bd577522f",
+      "name": "Flutter Android Side Icons",
       "file": "backgrounds/Kainuwa white background 2/file_00000000ef2081f4b41e790bd577522f.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000ef2081f4b41e790bd577522f.png",
       "sizeKb": 404,
@@ -282,7 +282,7 @@
     {
       "id": "background-kainuwa-white-background-2-file-00000000fa2881f48b281899f0e44db5",
       "type": "background",
-      "name": "File 00000000fa2881f48b281899f0e44db5",
+      "name": "Flutter Circuit Dashboard",
       "file": "backgrounds/Kainuwa white background 2/file_00000000fa2881f48b281899f0e44db5.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000fa2881f48b281899f0e44db5.png",
       "sizeKb": 499,
@@ -291,7 +291,7 @@
     {
       "id": "background-kainuwa-white-background-2-file-00000000fb2481f4b5a118149f90abea",
       "type": "background",
-      "name": "File 00000000fb2481f4b5a118149f90abea",
+      "name": "Android App Network Podium",
       "file": "backgrounds/Kainuwa white background 2/file_00000000fb2481f4b5a118149f90abea.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000fb2481f4b5a118149f90abea.png",
       "sizeKb": 537,
