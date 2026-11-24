@@ -883,6 +883,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-accessible",
+      "type": "icon",
+      "name": "Accessible",
+      "file": "icons/Tabler/Health/Accessible.svg",
+      "preview": "icons/Tabler/Health/Accessible.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-activity",
+      "type": "icon",
+      "name": "Activity",
+      "file": "icons/Tabler/Health/Activity.svg",
+      "preview": "icons/Tabler/Health/Activity.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-address-book",
       "type": "icon",
       "name": "Address Book",
@@ -942,6 +960,15 @@
       "name": "Api",
       "file": "icons/Tabler/Development/Api.svg",
       "preview": "icons/Tabler/Development/Api.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-apple",
+      "type": "icon",
+      "name": "Apple",
+      "file": "icons/Tabler/Food/Apple.svg",
+      "preview": "icons/Tabler/Food/Apple.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1009,6 +1036,78 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-avocado",
+      "type": "icon",
+      "name": "Avocado",
+      "file": "icons/Tabler/Food/Avocado.svg",
+      "preview": "icons/Tabler/Food/Avocado.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-baby-bottle",
+      "type": "icon",
+      "name": "Baby Bottle",
+      "file": "icons/Tabler/Health/Baby Bottle.svg",
+      "preview": "icons/Tabler/Health/Baby Bottle.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-baby-carriage",
+      "type": "icon",
+      "name": "Baby Carriage",
+      "file": "icons/Tabler/Health/Baby Carriage.svg",
+      "preview": "icons/Tabler/Health/Baby Carriage.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-backpack",
+      "type": "icon",
+      "name": "Backpack",
+      "file": "icons/Tabler/E-commerce/Backpack.svg",
+      "preview": "icons/Tabler/E-commerce/Backpack.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-baguette",
+      "type": "icon",
+      "name": "Baguette",
+      "file": "icons/Tabler/Food/Baguette.svg",
+      "preview": "icons/Tabler/Food/Baguette.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-banana",
+      "type": "icon",
+      "name": "Banana",
+      "file": "icons/Tabler/Food/Banana.svg",
+      "preview": "icons/Tabler/Food/Banana.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bandage",
+      "type": "icon",
+      "name": "Bandage",
+      "file": "icons/Tabler/Health/Bandage.svg",
+      "preview": "icons/Tabler/Health/Bandage.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-basket",
+      "type": "icon",
+      "name": "Basket",
+      "file": "icons/Tabler/E-commerce/Basket.svg",
+      "preview": "icons/Tabler/E-commerce/Basket.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-bat",
       "type": "icon",
       "name": "Bat",
@@ -1036,6 +1135,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-beer",
+      "type": "icon",
+      "name": "Beer",
+      "file": "icons/Tabler/Food/Beer.svg",
+      "preview": "icons/Tabler/Food/Beer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-binary",
       "type": "icon",
       "name": "Binary",
@@ -1054,11 +1162,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-blind",
+      "type": "icon",
+      "name": "Blind",
+      "file": "icons/Tabler/Health/Blind.svg",
+      "preview": "icons/Tabler/Health/Blind.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-bluetooth",
       "type": "icon",
       "name": "Bluetooth",
       "file": "icons/Tabler/Devices/Bluetooth.svg",
       "preview": "icons/Tabler/Devices/Bluetooth.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bone",
+      "type": "icon",
+      "name": "Bone",
+      "file": "icons/Tabler/Food/Bone.svg",
+      "preview": "icons/Tabler/Food/Bone.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1104,6 +1230,51 @@
       "name": "Bot Id",
       "file": "icons/Tabler/Development/Bot Id.svg",
       "preview": "icons/Tabler/Development/Bot Id.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bottle",
+      "type": "icon",
+      "name": "Bottle",
+      "file": "icons/Tabler/Food/Bottle.svg",
+      "preview": "icons/Tabler/Food/Bottle.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bowl",
+      "type": "icon",
+      "name": "Bowl",
+      "file": "icons/Tabler/Food/Bowl.svg",
+      "preview": "icons/Tabler/Food/Bowl.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-braille",
+      "type": "icon",
+      "name": "Braille",
+      "file": "icons/Tabler/Health/Braille.svg",
+      "preview": "icons/Tabler/Health/Braille.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-brain",
+      "type": "icon",
+      "name": "Brain",
+      "file": "icons/Tabler/Health/Brain.svg",
+      "preview": "icons/Tabler/Health/Brain.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bread",
+      "type": "icon",
+      "name": "Bread",
+      "file": "icons/Tabler/Food/Bread.svg",
+      "preview": "icons/Tabler/Food/Bread.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1198,11 +1369,83 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-burger",
+      "type": "icon",
+      "name": "Burger",
+      "file": "icons/Tabler/Food/Burger.svg",
+      "preview": "icons/Tabler/Food/Burger.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-businessplan",
+      "type": "icon",
+      "name": "Businessplan",
+      "file": "icons/Tabler/E-commerce/Businessplan.svg",
+      "preview": "icons/Tabler/E-commerce/Businessplan.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cake",
+      "type": "icon",
+      "name": "Cake",
+      "file": "icons/Tabler/Food/Cake.svg",
+      "preview": "icons/Tabler/Food/Cake.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-canary",
       "type": "icon",
       "name": "Canary",
       "file": "icons/Tabler/Development/Canary.svg",
       "preview": "icons/Tabler/Development/Canary.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-candy",
+      "type": "icon",
+      "name": "Candy",
+      "file": "icons/Tabler/Food/Candy.svg",
+      "preview": "icons/Tabler/Food/Candy.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cane",
+      "type": "icon",
+      "name": "Cane",
+      "file": "icons/Tabler/Health/Cane.svg",
+      "preview": "icons/Tabler/Health/Cane.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-carambola",
+      "type": "icon",
+      "name": "Carambola",
+      "file": "icons/Tabler/Food/Carambola.svg",
+      "preview": "icons/Tabler/Food/Carambola.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-carrot",
+      "type": "icon",
+      "name": "Carrot",
+      "file": "icons/Tabler/Food/Carrot.svg",
+      "preview": "icons/Tabler/Food/Carrot.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cash",
+      "type": "icon",
+      "name": "Cash",
+      "file": "icons/Tabler/E-commerce/Cash.svg",
+      "preview": "icons/Tabler/E-commerce/Cash.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1441,11 +1684,56 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-checkup-list",
+      "type": "icon",
+      "name": "Checkup List",
+      "file": "icons/Tabler/Health/Checkup List.svg",
+      "preview": "icons/Tabler/Health/Checkup List.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cheese",
+      "type": "icon",
+      "name": "Cheese",
+      "file": "icons/Tabler/Food/Cheese.svg",
+      "preview": "icons/Tabler/Food/Cheese.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-chef-hat",
+      "type": "icon",
+      "name": "Chef Hat",
+      "file": "icons/Tabler/Food/Chef Hat.svg",
+      "preview": "icons/Tabler/Food/Chef Hat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-chocolate",
+      "type": "icon",
+      "name": "Chocolate",
+      "file": "icons/Tabler/Food/Chocolate.svg",
+      "preview": "icons/Tabler/Food/Chocolate.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-clipboard",
       "type": "icon",
       "name": "Clipboard",
       "file": "icons/Tabler/Document/Clipboard.svg",
       "preview": "icons/Tabler/Document/Clipboard.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-clothes-rack",
+      "type": "icon",
+      "name": "Clothes Rack",
+      "file": "icons/Tabler/E-commerce/Clothes Rack.svg",
+      "preview": "icons/Tabler/E-commerce/Clothes Rack.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1464,6 +1752,33 @@
       "name": "Codeblock",
       "file": "icons/Tabler/Development/Codeblock.svg",
       "preview": "icons/Tabler/Development/Codeblock.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-coffee",
+      "type": "icon",
+      "name": "Coffee",
+      "file": "icons/Tabler/Food/Coffee.svg",
+      "preview": "icons/Tabler/Food/Coffee.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-coin",
+      "type": "icon",
+      "name": "Coin",
+      "file": "icons/Tabler/E-commerce/Coin.svg",
+      "preview": "icons/Tabler/E-commerce/Coin.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-coins",
+      "type": "icon",
+      "name": "Coins",
+      "file": "icons/Tabler/E-commerce/Coins.svg",
+      "preview": "icons/Tabler/E-commerce/Coins.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1513,11 +1828,56 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-cooker",
+      "type": "icon",
+      "name": "Cooker",
+      "file": "icons/Tabler/Food/Cooker.svg",
+      "preview": "icons/Tabler/Food/Cooker.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cookie",
+      "type": "icon",
+      "name": "Cookie",
+      "file": "icons/Tabler/Food/Cookie.svg",
+      "preview": "icons/Tabler/Food/Cookie.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-cpu",
       "type": "icon",
       "name": "Cpu",
       "file": "icons/Tabler/Devices/Cpu.svg",
       "preview": "icons/Tabler/Devices/Cpu.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-credit-card",
+      "type": "icon",
+      "name": "Credit Card",
+      "file": "icons/Tabler/E-commerce/Credit Card.svg",
+      "preview": "icons/Tabler/E-commerce/Credit Card.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-crutches",
+      "type": "icon",
+      "name": "Crutches",
+      "file": "icons/Tabler/Health/Crutches.svg",
+      "preview": "icons/Tabler/Health/Crutches.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cup",
+      "type": "icon",
+      "name": "Cup",
+      "file": "icons/Tabler/Food/Cup.svg",
+      "preview": "icons/Tabler/Food/Cup.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1576,11 +1936,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-deaf",
+      "type": "icon",
+      "name": "Deaf",
+      "file": "icons/Tabler/Health/Deaf.svg",
+      "preview": "icons/Tabler/Health/Deaf.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-deer",
       "type": "icon",
       "name": "Deer",
       "file": "icons/Tabler/Animals/Deer.svg",
       "preview": "icons/Tabler/Animals/Deer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-dental",
+      "type": "icon",
+      "name": "Dental",
+      "file": "icons/Tabler/Health/Dental.svg",
+      "preview": "icons/Tabler/Health/Dental.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1612,11 +1990,47 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-diaper",
+      "type": "icon",
+      "name": "Diaper",
+      "file": "icons/Tabler/E-commerce/Diaper.svg",
+      "preview": "icons/Tabler/E-commerce/Diaper.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-disabled",
+      "type": "icon",
+      "name": "Disabled",
+      "file": "icons/Tabler/Health/Disabled.svg",
+      "preview": "icons/Tabler/Health/Disabled.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-disc",
       "type": "icon",
       "name": "Disc",
       "file": "icons/Tabler/Devices/Disc.svg",
       "preview": "icons/Tabler/Devices/Disc.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-discount",
+      "type": "icon",
+      "name": "Discount",
+      "file": "icons/Tabler/E-commerce/Discount.svg",
+      "preview": "icons/Tabler/E-commerce/Discount.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-dna",
+      "type": "icon",
+      "name": "Dna",
+      "file": "icons/Tabler/Health/Dna.svg",
+      "preview": "icons/Tabler/Health/Dna.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1639,11 +2053,74 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-dumpling",
+      "type": "icon",
+      "name": "Dumpling",
+      "file": "icons/Tabler/Food/Dumpling.svg",
+      "preview": "icons/Tabler/Food/Dumpling.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-e-passport",
+      "type": "icon",
+      "name": "E Passport",
+      "file": "icons/Tabler/E-commerce/E Passport.svg",
+      "preview": "icons/Tabler/E-commerce/E Passport.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ear",
+      "type": "icon",
+      "name": "Ear",
+      "file": "icons/Tabler/Health/Ear.svg",
+      "preview": "icons/Tabler/Health/Ear.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-egg",
+      "type": "icon",
+      "name": "Egg",
+      "file": "icons/Tabler/Food/Egg.svg",
+      "preview": "icons/Tabler/Food/Egg.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-eggs",
+      "type": "icon",
+      "name": "Eggs",
+      "file": "icons/Tabler/Food/Eggs.svg",
+      "preview": "icons/Tabler/Food/Eggs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-email-stamp",
       "type": "icon",
       "name": "Email Stamp",
       "file": "icons/Tabler/Communication/Email Stamp.svg",
       "preview": "icons/Tabler/Communication/Email Stamp.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-emergency-bed",
+      "type": "icon",
+      "name": "Emergency Bed",
+      "file": "icons/Tabler/Health/Emergency Bed.svg",
+      "preview": "icons/Tabler/Health/Emergency Bed.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-empathize",
+      "type": "icon",
+      "name": "Empathize",
+      "file": "icons/Tabler/Health/Empathize.svg",
+      "preview": "icons/Tabler/Health/Empathize.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1657,11 +2134,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-eyeglass",
+      "type": "icon",
+      "name": "Eyeglass",
+      "file": "icons/Tabler/Health/Eyeglass.svg",
+      "preview": "icons/Tabler/Health/Eyeglass.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-fence",
       "type": "icon",
       "name": "Fence",
       "file": "icons/Tabler/Buildings/Fence.svg",
       "preview": "icons/Tabler/Buildings/Fence.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file",
+      "type": "icon",
+      "name": "File",
+      "file": "icons/Tabler/Document/File.svg",
+      "preview": "icons/Tabler/Document/File.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1819,6 +2314,60 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-file-type-txt",
+      "type": "icon",
+      "name": "File Type Txt",
+      "file": "icons/Tabler/Document/File Type Txt.svg",
+      "preview": "icons/Tabler/Document/File Type Txt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-vue",
+      "type": "icon",
+      "name": "File Type Vue",
+      "file": "icons/Tabler/Document/File Type Vue.svg",
+      "preview": "icons/Tabler/Document/File Type Vue.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-xls",
+      "type": "icon",
+      "name": "File Type Xls",
+      "file": "icons/Tabler/Document/File Type Xls.svg",
+      "preview": "icons/Tabler/Document/File Type Xls.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-xml",
+      "type": "icon",
+      "name": "File Type Xml",
+      "file": "icons/Tabler/Document/File Type Xml.svg",
+      "preview": "icons/Tabler/Document/File Type Xml.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-zip",
+      "type": "icon",
+      "name": "File Type Zip",
+      "file": "icons/Tabler/Document/File Type Zip.svg",
+      "preview": "icons/Tabler/Document/File Type Zip.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-files",
+      "type": "icon",
+      "name": "Files",
+      "file": "icons/Tabler/Document/Files.svg",
+      "preview": "icons/Tabler/Document/Files.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-firewall-check",
       "type": "icon",
       "name": "Firewall Check",
@@ -1846,6 +2395,33 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-flip-flops",
+      "type": "icon",
+      "name": "Flip Flops",
+      "file": "icons/Tabler/E-commerce/Flip Flops.svg",
+      "preview": "icons/Tabler/E-commerce/Flip Flops.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-folder",
+      "type": "icon",
+      "name": "Folder",
+      "file": "icons/Tabler/Document/Folder.svg",
+      "preview": "icons/Tabler/Document/Folder.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-folders",
+      "type": "icon",
+      "name": "Folders",
+      "file": "icons/Tabler/Document/Folders.svg",
+      "preview": "icons/Tabler/Document/Folders.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-fridge",
       "type": "icon",
       "name": "Fridge",
@@ -1855,11 +2431,164 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-gift",
+      "type": "icon",
+      "name": "Gift",
+      "file": "icons/Tabler/E-commerce/Gift.svg",
+      "preview": "icons/Tabler/E-commerce/Gift.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-glass",
+      "type": "icon",
+      "name": "Glass",
+      "file": "icons/Tabler/Food/Glass.svg",
+      "preview": "icons/Tabler/Food/Glass.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-gpu",
       "type": "icon",
       "name": "Gpu",
       "file": "icons/Tabler/Devices/Gpu.svg",
       "preview": "icons/Tabler/Devices/Gpu.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-grape",
+      "type": "icon",
+      "name": "Grape",
+      "file": "icons/Tabler/Food/Grape.svg",
+      "preview": "icons/Tabler/Food/Grape.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-grill",
+      "type": "icon",
+      "name": "Grill",
+      "file": "icons/Tabler/Food/Grill.svg",
+      "preview": "icons/Tabler/Food/Grill.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-click",
+      "type": "icon",
+      "name": "Hand Click",
+      "file": "icons/Tabler/Gestures/Hand Click.svg",
+      "preview": "icons/Tabler/Gestures/Hand Click.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-finger",
+      "type": "icon",
+      "name": "Hand Finger",
+      "file": "icons/Tabler/Gestures/Hand Finger.svg",
+      "preview": "icons/Tabler/Gestures/Hand Finger.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-grab",
+      "type": "icon",
+      "name": "Hand Grab",
+      "file": "icons/Tabler/Gestures/Hand Grab.svg",
+      "preview": "icons/Tabler/Gestures/Hand Grab.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-little-finger",
+      "type": "icon",
+      "name": "Hand Little Finger",
+      "file": "icons/Tabler/Gestures/Hand Little Finger.svg",
+      "preview": "icons/Tabler/Gestures/Hand Little Finger.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-love-you",
+      "type": "icon",
+      "name": "Hand Love You",
+      "file": "icons/Tabler/Gestures/Hand Love You.svg",
+      "preview": "icons/Tabler/Gestures/Hand Love You.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-middle-finger",
+      "type": "icon",
+      "name": "Hand Middle Finger",
+      "file": "icons/Tabler/Gestures/Hand Middle Finger.svg",
+      "preview": "icons/Tabler/Gestures/Hand Middle Finger.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-move",
+      "type": "icon",
+      "name": "Hand Move",
+      "file": "icons/Tabler/Gestures/Hand Move.svg",
+      "preview": "icons/Tabler/Gestures/Hand Move.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-off",
+      "type": "icon",
+      "name": "Hand Off",
+      "file": "icons/Tabler/Gestures/Hand Off.svg",
+      "preview": "icons/Tabler/Gestures/Hand Off.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-ring-finger",
+      "type": "icon",
+      "name": "Hand Ring Finger",
+      "file": "icons/Tabler/Gestures/Hand Ring Finger.svg",
+      "preview": "icons/Tabler/Gestures/Hand Ring Finger.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-stop",
+      "type": "icon",
+      "name": "Hand Stop",
+      "file": "icons/Tabler/Gestures/Hand Stop.svg",
+      "preview": "icons/Tabler/Gestures/Hand Stop.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-three-fingers",
+      "type": "icon",
+      "name": "Hand Three Fingers",
+      "file": "icons/Tabler/Gestures/Hand Three Fingers.svg",
+      "preview": "icons/Tabler/Gestures/Hand Three Fingers.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hand-two-fingers",
+      "type": "icon",
+      "name": "Hand Two Fingers",
+      "file": "icons/Tabler/Gestures/Hand Two Fingers.svg",
+      "preview": "icons/Tabler/Gestures/Hand Two Fingers.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hanger",
+      "type": "icon",
+      "name": "Hanger",
+      "file": "icons/Tabler/E-commerce/Hanger.svg",
+      "preview": "icons/Tabler/E-commerce/Hanger.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1990,6 +2719,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-ice-cream",
+      "type": "icon",
+      "name": "Ice Cream",
+      "file": "icons/Tabler/Food/Ice Cream.svg",
+      "preview": "icons/Tabler/Food/Ice Cream.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-image-generation",
       "type": "icon",
       "name": "Image Generation",
@@ -1999,11 +2737,47 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-invoice",
+      "type": "icon",
+      "name": "Invoice",
+      "file": "icons/Tabler/Document/Invoice.svg",
+      "preview": "icons/Tabler/Document/Invoice.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-jacket",
+      "type": "icon",
+      "name": "Jacket",
+      "file": "icons/Tabler/E-commerce/Jacket.svg",
+      "preview": "icons/Tabler/E-commerce/Jacket.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-keyboard",
       "type": "icon",
       "name": "Keyboard",
       "file": "icons/Tabler/Devices/Keyboard.svg",
       "preview": "icons/Tabler/Devices/Keyboard.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-lemon",
+      "type": "icon",
+      "name": "Lemon",
+      "file": "icons/Tabler/Food/Lemon.svg",
+      "preview": "icons/Tabler/Food/Lemon.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-license",
+      "type": "icon",
+      "name": "License",
+      "file": "icons/Tabler/Document/License.svg",
+      "preview": "icons/Tabler/Document/License.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2022,6 +2796,15 @@
       "name": "Logs",
       "file": "icons/Tabler/Development/Logs.svg",
       "preview": "icons/Tabler/Development/Logs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-lollipop",
+      "type": "icon",
+      "name": "Lollipop",
+      "file": "icons/Tabler/Food/Lollipop.svg",
+      "preview": "icons/Tabler/Food/Lollipop.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2053,6 +2836,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-meat",
+      "type": "icon",
+      "name": "Meat",
+      "file": "icons/Tabler/Food/Meat.svg",
+      "preview": "icons/Tabler/Food/Meat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-melon",
+      "type": "icon",
+      "name": "Melon",
+      "file": "icons/Tabler/Food/Melon.svg",
+      "preview": "icons/Tabler/Food/Melon.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-memory",
       "type": "icon",
       "name": "Memory",
@@ -2080,11 +2881,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-michelin-bib-gourmand",
+      "type": "icon",
+      "name": "Michelin Bib Gourmand",
+      "file": "icons/Tabler/Food/Michelin Bib Gourmand.svg",
+      "preview": "icons/Tabler/Food/Michelin Bib Gourmand.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-michelin-star",
+      "type": "icon",
+      "name": "Michelin Star",
+      "file": "icons/Tabler/Food/Michelin Star.svg",
+      "preview": "icons/Tabler/Food/Michelin Star.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-microfrontends",
       "type": "icon",
       "name": "Microfrontends",
       "file": "icons/Tabler/Development/Microfrontends.svg",
       "preview": "icons/Tabler/Development/Microfrontends.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-microwave",
+      "type": "icon",
+      "name": "Microwave",
+      "file": "icons/Tabler/Food/Microwave.svg",
+      "preview": "icons/Tabler/Food/Microwave.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2098,11 +2926,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-milk",
+      "type": "icon",
+      "name": "Milk",
+      "file": "icons/Tabler/Food/Milk.svg",
+      "preview": "icons/Tabler/Food/Milk.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-milkshake",
+      "type": "icon",
+      "name": "Milkshake",
+      "file": "icons/Tabler/Food/Milkshake.svg",
+      "preview": "icons/Tabler/Food/Milkshake.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-model-ai",
       "type": "icon",
       "name": "Model Ai",
       "file": "icons/Tabler/Development/Model Ai.svg",
       "preview": "icons/Tabler/Development/Model Ai.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-moneybag",
+      "type": "icon",
+      "name": "Moneybag",
+      "file": "icons/Tabler/E-commerce/Moneybag.svg",
+      "preview": "icons/Tabler/E-commerce/Moneybag.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2125,11 +2980,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-mug",
+      "type": "icon",
+      "name": "Mug",
+      "file": "icons/Tabler/Food/Mug.svg",
+      "preview": "icons/Tabler/Food/Mug.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mushroom",
+      "type": "icon",
+      "name": "Mushroom",
+      "file": "icons/Tabler/Food/Mushroom.svg",
+      "preview": "icons/Tabler/Food/Mushroom.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-network",
       "type": "icon",
       "name": "Network",
       "file": "icons/Tabler/Computers/Network.svg",
       "preview": "icons/Tabler/Computers/Network.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-news",
+      "type": "icon",
+      "name": "News",
+      "file": "icons/Tabler/Document/News.svg",
+      "preview": "icons/Tabler/Document/News.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2143,6 +3025,51 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-note",
+      "type": "icon",
+      "name": "Note",
+      "file": "icons/Tabler/Document/Note.svg",
+      "preview": "icons/Tabler/Document/Note.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-notebook",
+      "type": "icon",
+      "name": "Notebook",
+      "file": "icons/Tabler/Document/Notebook.svg",
+      "preview": "icons/Tabler/Document/Notebook.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-notes",
+      "type": "icon",
+      "name": "Notes",
+      "file": "icons/Tabler/Document/Notes.svg",
+      "preview": "icons/Tabler/Document/Notes.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-nut",
+      "type": "icon",
+      "name": "Nut",
+      "file": "icons/Tabler/Food/Nut.svg",
+      "preview": "icons/Tabler/Food/Nut.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-package",
+      "type": "icon",
+      "name": "Package",
+      "file": "icons/Tabler/E-commerce/Package.svg",
+      "preview": "icons/Tabler/E-commerce/Package.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-packages",
       "type": "icon",
       "name": "Packages",
@@ -2152,11 +3079,56 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-page-break",
+      "type": "icon",
+      "name": "Page Break",
+      "file": "icons/Tabler/Document/Page Break.svg",
+      "preview": "icons/Tabler/Document/Page Break.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-paper-bag",
+      "type": "icon",
+      "name": "Paper Bag",
+      "file": "icons/Tabler/Food/Paper Bag.svg",
+      "preview": "icons/Tabler/Food/Paper Bag.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-paperclip",
+      "type": "icon",
+      "name": "Paperclip",
+      "file": "icons/Tabler/Document/Paperclip.svg",
+      "preview": "icons/Tabler/Document/Paperclip.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-paw",
       "type": "icon",
       "name": "Paw",
       "file": "icons/Tabler/Animals/Paw.svg",
       "preview": "icons/Tabler/Animals/Paw.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pepper",
+      "type": "icon",
+      "name": "Pepper",
+      "file": "icons/Tabler/Food/Pepper.svg",
+      "preview": "icons/Tabler/Food/Pepper.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-perfume",
+      "type": "icon",
+      "name": "Perfume",
+      "file": "icons/Tabler/E-commerce/Perfume.svg",
+      "preview": "icons/Tabler/E-commerce/Perfume.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2184,6 +3156,15 @@
       "name": "Pipeline",
       "file": "icons/Tabler/Development/Pipeline.svg",
       "preview": "icons/Tabler/Development/Pipeline.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pizza",
+      "type": "icon",
+      "name": "Pizza",
+      "file": "icons/Tabler/Food/Pizza.svg",
+      "preview": "icons/Tabler/Food/Pizza.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2233,6 +3214,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-presentation",
+      "type": "icon",
+      "name": "Presentation",
+      "file": "icons/Tabler/Document/Presentation.svg",
+      "preview": "icons/Tabler/Document/Presentation.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-printer",
       "type": "icon",
       "name": "Printer",
@@ -2278,6 +3268,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-receipt",
+      "type": "icon",
+      "name": "Receipt",
+      "file": "icons/Tabler/Document/Receipt.svg",
+      "preview": "icons/Tabler/Document/Receipt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-relation-many-to-many",
       "type": "icon",
       "name": "Relation Many To Many",
@@ -2301,6 +3300,15 @@
       "name": "Relation One To One",
       "file": "icons/Tabler/Database/Relation One To One.svg",
       "preview": "icons/Tabler/Database/Relation One To One.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-report",
+      "type": "icon",
+      "name": "Report",
+      "file": "icons/Tabler/Document/Report.svg",
+      "preview": "icons/Tabler/Document/Report.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2359,11 +3367,56 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-rubber-stamp",
+      "type": "icon",
+      "name": "Rubber Stamp",
+      "file": "icons/Tabler/Document/Rubber Stamp.svg",
+      "preview": "icons/Tabler/Document/Rubber Stamp.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-salad",
+      "type": "icon",
+      "name": "Salad",
+      "file": "icons/Tabler/Food/Salad.svg",
+      "preview": "icons/Tabler/Food/Salad.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-salt",
+      "type": "icon",
+      "name": "Salt",
+      "file": "icons/Tabler/Food/Salt.svg",
+      "preview": "icons/Tabler/Food/Salt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sausage",
+      "type": "icon",
+      "name": "Sausage",
+      "file": "icons/Tabler/Food/Sausage.svg",
+      "preview": "icons/Tabler/Food/Sausage.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-schema",
       "type": "icon",
       "name": "Schema",
       "file": "icons/Tabler/Database/Schema.svg",
       "preview": "icons/Tabler/Database/Schema.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-script",
+      "type": "icon",
+      "name": "Script",
+      "file": "icons/Tabler/Document/Script.svg",
+      "preview": "icons/Tabler/Document/Script.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2409,6 +3462,42 @@
       "name": "Serverless",
       "file": "icons/Tabler/Development/Serverless.svg",
       "preview": "icons/Tabler/Development/Serverless.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-shirt",
+      "type": "icon",
+      "name": "Shirt",
+      "file": "icons/Tabler/E-commerce/Shirt.svg",
+      "preview": "icons/Tabler/E-commerce/Shirt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-shoe",
+      "type": "icon",
+      "name": "Shoe",
+      "file": "icons/Tabler/E-commerce/Shoe.svg",
+      "preview": "icons/Tabler/E-commerce/Shoe.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-shopping-bag",
+      "type": "icon",
+      "name": "Shopping Bag",
+      "file": "icons/Tabler/E-commerce/Shopping Bag.svg",
+      "preview": "icons/Tabler/E-commerce/Shopping Bag.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-shopping-cart",
+      "type": "icon",
+      "name": "Shopping Cart",
+      "file": "icons/Tabler/E-commerce/Shopping Cart.svg",
+      "preview": "icons/Tabler/E-commerce/Shopping Cart.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2512,6 +3601,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-sock",
+      "type": "icon",
+      "name": "Sock",
+      "file": "icons/Tabler/E-commerce/Sock.svg",
+      "preview": "icons/Tabler/E-commerce/Sock.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-soup",
+      "type": "icon",
+      "name": "Soup",
+      "file": "icons/Tabler/Food/Soup.svg",
+      "preview": "icons/Tabler/Food/Soup.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-source-code",
       "type": "icon",
       "name": "Source Code",
@@ -2539,6 +3646,60 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-tag",
+      "type": "icon",
+      "name": "Tag",
+      "file": "icons/Tabler/E-commerce/Tag.svg",
+      "preview": "icons/Tabler/E-commerce/Tag.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tags",
+      "type": "icon",
+      "name": "Tags",
+      "file": "icons/Tabler/E-commerce/Tags.svg",
+      "preview": "icons/Tabler/E-commerce/Tags.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tags-chevron-down",
+      "type": "icon",
+      "name": "Tags Chevron Down",
+      "file": "icons/Tabler/E-commerce/Tags Chevron Down.svg",
+      "preview": "icons/Tabler/E-commerce/Tags Chevron Down.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tags-chevron-left",
+      "type": "icon",
+      "name": "Tags Chevron Left",
+      "file": "icons/Tabler/E-commerce/Tags Chevron Left.svg",
+      "preview": "icons/Tabler/E-commerce/Tags Chevron Left.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tags-chevron-right",
+      "type": "icon",
+      "name": "Tags Chevron Right",
+      "file": "icons/Tabler/E-commerce/Tags Chevron Right.svg",
+      "preview": "icons/Tabler/E-commerce/Tags Chevron Right.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tags-chevron-up",
+      "type": "icon",
+      "name": "Tags Chevron Up",
+      "file": "icons/Tabler/E-commerce/Tags Chevron Up.svg",
+      "preview": "icons/Tabler/E-commerce/Tags Chevron Up.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-taiwan-dollar",
       "type": "icon",
       "name": "Taiwan Dollar",
@@ -2553,6 +3714,15 @@
       "name": "Tax",
       "file": "icons/Tabler/Currencies/Tax.svg",
       "preview": "icons/Tabler/Currencies/Tax.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-teapot",
+      "type": "icon",
+      "name": "Teapot",
+      "file": "icons/Tabler/Food/Teapot.svg",
+      "preview": "icons/Tabler/Food/Teapot.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2580,6 +3750,24 @@
       "name": "Thinking Medium",
       "file": "icons/Tabler/Development/Thinking Medium.svg",
       "preview": "icons/Tabler/Development/Thinking Medium.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ticket",
+      "type": "icon",
+      "name": "Ticket",
+      "file": "icons/Tabler/Document/Ticket.svg",
+      "preview": "icons/Tabler/Document/Ticket.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tie",
+      "type": "icon",
+      "name": "Tie",
+      "file": "icons/Tabler/E-commerce/Tie.svg",
+      "preview": "icons/Tabler/E-commerce/Tie.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2647,11 +3835,56 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-transaction-dollar",
+      "type": "icon",
+      "name": "Transaction Dollar",
+      "file": "icons/Tabler/E-commerce/Transaction Dollar.svg",
+      "preview": "icons/Tabler/E-commerce/Transaction Dollar.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-transaction-euro",
+      "type": "icon",
+      "name": "Transaction Euro",
+      "file": "icons/Tabler/E-commerce/Transaction Euro.svg",
+      "preview": "icons/Tabler/E-commerce/Transaction Euro.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-transaction-pound",
+      "type": "icon",
+      "name": "Transaction Pound",
+      "file": "icons/Tabler/E-commerce/Transaction Pound.svg",
+      "preview": "icons/Tabler/E-commerce/Transaction Pound.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-transaction-rupee",
       "type": "icon",
       "name": "Transaction Rupee",
       "file": "icons/Tabler/Currencies/Transaction Rupee.svg",
       "preview": "icons/Tabler/Currencies/Transaction Rupee.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-transaction-yen",
+      "type": "icon",
+      "name": "Transaction Yen",
+      "file": "icons/Tabler/E-commerce/Transaction Yen.svg",
+      "preview": "icons/Tabler/E-commerce/Transaction Yen.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-transaction-yuan",
+      "type": "icon",
+      "name": "Transaction Yuan",
+      "file": "icons/Tabler/E-commerce/Transaction Yuan.svg",
+      "preview": "icons/Tabler/E-commerce/Transaction Yuan.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2683,11 +3916,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-wallet",
+      "type": "icon",
+      "name": "Wallet",
+      "file": "icons/Tabler/E-commerce/Wallet.svg",
+      "preview": "icons/Tabler/E-commerce/Wallet.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-webhook",
       "type": "icon",
       "name": "Webhook",
       "file": "icons/Tabler/Development/Webhook.svg",
       "preview": "icons/Tabler/Development/Webhook.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-wheat",
+      "type": "icon",
+      "name": "Wheat",
+      "file": "icons/Tabler/Food/Wheat.svg",
+      "preview": "icons/Tabler/Food/Wheat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-whisk",
+      "type": "icon",
+      "name": "Whisk",
+      "file": "icons/Tabler/Food/Whisk.svg",
+      "preview": "icons/Tabler/Food/Whisk.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
