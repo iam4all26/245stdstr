@@ -874,6 +874,15 @@
       "category": "Kainuwa icons"
     },
     {
+      "id": "icon-tabler-a-b",
+      "type": "icon",
+      "name": "A B",
+      "file": "icons/Tabler/Development/A B.svg",
+      "preview": "icons/Tabler/Development/A B.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-address-book",
       "type": "icon",
       "name": "Address Book",
@@ -883,11 +892,119 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-ai",
+      "type": "icon",
+      "name": "Ai",
+      "file": "icons/Tabler/Development/Ai.svg",
+      "preview": "icons/Tabler/Development/Ai.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-airpods-l",
+      "type": "icon",
+      "name": "Airpods L",
+      "file": "icons/Tabler/Devices/Airpods L.svg",
+      "preview": "icons/Tabler/Devices/Airpods L.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-airpods-r",
+      "type": "icon",
+      "name": "Airpods R",
+      "file": "icons/Tabler/Devices/Airpods R.svg",
+      "preview": "icons/Tabler/Devices/Airpods R.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-alt",
+      "type": "icon",
+      "name": "Alt",
+      "file": "icons/Tabler/Development/Alt.svg",
+      "preview": "icons/Tabler/Development/Alt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-antenna",
+      "type": "icon",
+      "name": "Antenna",
+      "file": "icons/Tabler/Devices/Antenna.svg",
+      "preview": "icons/Tabler/Devices/Antenna.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-api",
+      "type": "icon",
+      "name": "Api",
+      "file": "icons/Tabler/Development/Api.svg",
+      "preview": "icons/Tabler/Development/Api.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-apps",
+      "type": "icon",
+      "name": "Apps",
+      "file": "icons/Tabler/Development/Apps.svg",
+      "preview": "icons/Tabler/Development/Apps.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-archive",
+      "type": "icon",
+      "name": "Archive",
+      "file": "icons/Tabler/Document/Archive.svg",
+      "preview": "icons/Tabler/Document/Archive.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-armchair",
       "type": "icon",
       "name": "Armchair",
       "file": "icons/Tabler/Buildings/Armchair.svg",
       "preview": "icons/Tabler/Buildings/Armchair.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-article",
+      "type": "icon",
+      "name": "Article",
+      "file": "icons/Tabler/Document/Article.svg",
+      "preview": "icons/Tabler/Document/Article.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-assembly",
+      "type": "icon",
+      "name": "Assembly",
+      "file": "icons/Tabler/Development/Assembly.svg",
+      "preview": "icons/Tabler/Development/Assembly.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-asset",
+      "type": "icon",
+      "name": "Asset",
+      "file": "icons/Tabler/Development/Asset.svg",
+      "preview": "icons/Tabler/Development/Asset.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-auth-2fa",
+      "type": "icon",
+      "name": "Auth 2fa",
+      "file": "icons/Tabler/Development/Auth 2fa.svg",
+      "preview": "icons/Tabler/Development/Auth 2fa.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -910,6 +1027,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-battery",
+      "type": "icon",
+      "name": "Battery",
+      "file": "icons/Tabler/Devices/Battery.svg",
+      "preview": "icons/Tabler/Devices/Battery.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-binary",
       "type": "icon",
       "name": "Binary",
@@ -919,11 +1045,101 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-blender",
+      "type": "icon",
+      "name": "Blender",
+      "file": "icons/Tabler/Devices/Blender.svg",
+      "preview": "icons/Tabler/Devices/Blender.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bluetooth",
+      "type": "icon",
+      "name": "Bluetooth",
+      "file": "icons/Tabler/Devices/Bluetooth.svg",
+      "preview": "icons/Tabler/Devices/Bluetooth.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-book",
+      "type": "icon",
+      "name": "Book",
+      "file": "icons/Tabler/Document/Book.svg",
+      "preview": "icons/Tabler/Document/Book.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bookmark",
+      "type": "icon",
+      "name": "Bookmark",
+      "file": "icons/Tabler/Document/Bookmark.svg",
+      "preview": "icons/Tabler/Document/Bookmark.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bookmarks",
+      "type": "icon",
+      "name": "Bookmarks",
+      "file": "icons/Tabler/Document/Bookmarks.svg",
+      "preview": "icons/Tabler/Document/Bookmarks.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-books",
+      "type": "icon",
+      "name": "Books",
+      "file": "icons/Tabler/Document/Books.svg",
+      "preview": "icons/Tabler/Document/Books.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bot-id",
+      "type": "icon",
+      "name": "Bot Id",
+      "file": "icons/Tabler/Development/Bot Id.svg",
+      "preview": "icons/Tabler/Development/Bot Id.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-broadcast",
+      "type": "icon",
+      "name": "Broadcast",
+      "file": "icons/Tabler/Devices/Broadcast.svg",
+      "preview": "icons/Tabler/Devices/Broadcast.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-browser",
+      "type": "icon",
+      "name": "Browser",
+      "file": "icons/Tabler/Devices/Browser.svg",
+      "preview": "icons/Tabler/Devices/Browser.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-bubble",
       "type": "icon",
       "name": "Bubble",
       "file": "icons/Tabler/Communication/Bubble.svg",
       "preview": "icons/Tabler/Communication/Bubble.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bug",
+      "type": "icon",
+      "name": "Bug",
+      "file": "icons/Tabler/Development/Bug.svg",
+      "preview": "icons/Tabler/Development/Bug.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -982,11 +1198,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-canary",
+      "type": "icon",
+      "name": "Canary",
+      "file": "icons/Tabler/Development/Canary.svg",
+      "preview": "icons/Tabler/Development/Canary.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-cat",
       "type": "icon",
       "name": "Cat",
       "file": "icons/Tabler/Animals/Cat.svg",
       "preview": "icons/Tabler/Animals/Cat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-certificate",
+      "type": "icon",
+      "name": "Certificate",
+      "file": "icons/Tabler/Document/Certificate.svg",
+      "preview": "icons/Tabler/Document/Certificate.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-chalkboard",
+      "type": "icon",
+      "name": "Chalkboard",
+      "file": "icons/Tabler/Document/Chalkboard.svg",
+      "preview": "icons/Tabler/Document/Chalkboard.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1198,6 +1441,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-clipboard",
+      "type": "icon",
+      "name": "Clipboard",
+      "file": "icons/Tabler/Document/Clipboard.svg",
+      "preview": "icons/Tabler/Document/Clipboard.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-cloud-data-connection",
       "type": "icon",
       "name": "Cloud Data Connection",
@@ -1207,11 +1459,164 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-codeblock",
+      "type": "icon",
+      "name": "Codeblock",
+      "file": "icons/Tabler/Development/Codeblock.svg",
+      "preview": "icons/Tabler/Development/Codeblock.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-column-insert-left",
+      "type": "icon",
+      "name": "Column Insert Left",
+      "file": "icons/Tabler/Database/Column Insert Left.svg",
+      "preview": "icons/Tabler/Database/Column Insert Left.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-column-insert-right",
+      "type": "icon",
+      "name": "Column Insert Right",
+      "file": "icons/Tabler/Database/Column Insert Right.svg",
+      "preview": "icons/Tabler/Database/Column Insert Right.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-column-remove",
+      "type": "icon",
+      "name": "Column Remove",
+      "file": "icons/Tabler/Database/Column Remove.svg",
+      "preview": "icons/Tabler/Database/Column Remove.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-connection",
+      "type": "icon",
+      "name": "Connection",
+      "file": "icons/Tabler/Development/Connection.svg",
+      "preview": "icons/Tabler/Development/Connection.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-contract",
+      "type": "icon",
+      "name": "Contract",
+      "file": "icons/Tabler/Document/Contract.svg",
+      "preview": "icons/Tabler/Document/Contract.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cpu",
+      "type": "icon",
+      "name": "Cpu",
+      "file": "icons/Tabler/Devices/Cpu.svg",
+      "preview": "icons/Tabler/Devices/Cpu.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-currency",
+      "type": "icon",
+      "name": "Currency",
+      "file": "icons/Tabler/Currencies/Currency.svg",
+      "preview": "icons/Tabler/Currencies/Currency.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-currency-iranian-rial",
+      "type": "icon",
+      "name": "Currency Iranian Rial",
+      "file": "icons/Tabler/Currencies/Currency Iranian Rial.svg",
+      "preview": "icons/Tabler/Currencies/Currency Iranian Rial.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-currency-krone-czech",
+      "type": "icon",
+      "name": "Currency Krone Czech",
+      "file": "icons/Tabler/Currencies/Currency Krone Czech.svg",
+      "preview": "icons/Tabler/Currencies/Currency Krone Czech.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-currency-krone-danish",
+      "type": "icon",
+      "name": "Currency Krone Danish",
+      "file": "icons/Tabler/Currencies/Currency Krone Danish.svg",
+      "preview": "icons/Tabler/Currencies/Currency Krone Danish.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-currency-krone-swedish",
+      "type": "icon",
+      "name": "Currency Krone Swedish",
+      "file": "icons/Tabler/Currencies/Currency Krone Swedish.svg",
+      "preview": "icons/Tabler/Currencies/Currency Krone Swedish.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-database",
+      "type": "icon",
+      "name": "Database",
+      "file": "icons/Tabler/Database/Database.svg",
+      "preview": "icons/Tabler/Database/Database.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-deer",
       "type": "icon",
       "name": "Deer",
       "file": "icons/Tabler/Animals/Deer.svg",
       "preview": "icons/Tabler/Animals/Deer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-device-tv",
+      "type": "icon",
+      "name": "Device Tv",
+      "file": "icons/Tabler/Devices/Device Tv.svg",
+      "preview": "icons/Tabler/Devices/Device Tv.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-devices",
+      "type": "icon",
+      "name": "Devices",
+      "file": "icons/Tabler/Devices/Devices.svg",
+      "preview": "icons/Tabler/Devices/Devices.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-dialpad",
+      "type": "icon",
+      "name": "Dialpad",
+      "file": "icons/Tabler/Devices/Dialpad.svg",
+      "preview": "icons/Tabler/Devices/Dialpad.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-disc",
+      "type": "icon",
+      "name": "Disc",
+      "file": "icons/Tabler/Devices/Disc.svg",
+      "preview": "icons/Tabler/Devices/Disc.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1261,11 +1666,200 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-file-type-bmp",
+      "type": "icon",
+      "name": "File Type Bmp",
+      "file": "icons/Tabler/Document/File Type Bmp.svg",
+      "preview": "icons/Tabler/Document/File Type Bmp.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-css",
+      "type": "icon",
+      "name": "File Type Css",
+      "file": "icons/Tabler/Document/File Type Css.svg",
+      "preview": "icons/Tabler/Document/File Type Css.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-csv",
+      "type": "icon",
+      "name": "File Type Csv",
+      "file": "icons/Tabler/Document/File Type Csv.svg",
+      "preview": "icons/Tabler/Document/File Type Csv.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-doc",
+      "type": "icon",
+      "name": "File Type Doc",
+      "file": "icons/Tabler/Document/File Type Doc.svg",
+      "preview": "icons/Tabler/Document/File Type Doc.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-docx",
+      "type": "icon",
+      "name": "File Type Docx",
+      "file": "icons/Tabler/Document/File Type Docx.svg",
+      "preview": "icons/Tabler/Document/File Type Docx.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-jpg",
+      "type": "icon",
+      "name": "File Type Jpg",
+      "file": "icons/Tabler/Document/File Type Jpg.svg",
+      "preview": "icons/Tabler/Document/File Type Jpg.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-js",
+      "type": "icon",
+      "name": "File Type Js",
+      "file": "icons/Tabler/Document/File Type Js.svg",
+      "preview": "icons/Tabler/Document/File Type Js.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-jsx",
+      "type": "icon",
+      "name": "File Type Jsx",
+      "file": "icons/Tabler/Document/File Type Jsx.svg",
+      "preview": "icons/Tabler/Document/File Type Jsx.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-pdf",
+      "type": "icon",
+      "name": "File Type Pdf",
+      "file": "icons/Tabler/Document/File Type Pdf.svg",
+      "preview": "icons/Tabler/Document/File Type Pdf.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-php",
+      "type": "icon",
+      "name": "File Type Php",
+      "file": "icons/Tabler/Document/File Type Php.svg",
+      "preview": "icons/Tabler/Document/File Type Php.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-png",
+      "type": "icon",
+      "name": "File Type Png",
+      "file": "icons/Tabler/Document/File Type Png.svg",
+      "preview": "icons/Tabler/Document/File Type Png.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-ppt",
+      "type": "icon",
+      "name": "File Type Ppt",
+      "file": "icons/Tabler/Document/File Type Ppt.svg",
+      "preview": "icons/Tabler/Document/File Type Ppt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-rs",
+      "type": "icon",
+      "name": "File Type Rs",
+      "file": "icons/Tabler/Document/File Type Rs.svg",
+      "preview": "icons/Tabler/Document/File Type Rs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-sql",
+      "type": "icon",
+      "name": "File Type Sql",
+      "file": "icons/Tabler/Document/File Type Sql.svg",
+      "preview": "icons/Tabler/Document/File Type Sql.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-svg",
+      "type": "icon",
+      "name": "File Type Svg",
+      "file": "icons/Tabler/Document/File Type Svg.svg",
+      "preview": "icons/Tabler/Document/File Type Svg.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-ts",
+      "type": "icon",
+      "name": "File Type Ts",
+      "file": "icons/Tabler/Document/File Type Ts.svg",
+      "preview": "icons/Tabler/Document/File Type Ts.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-file-type-tsx",
+      "type": "icon",
+      "name": "File Type Tsx",
+      "file": "icons/Tabler/Document/File Type Tsx.svg",
+      "preview": "icons/Tabler/Document/File Type Tsx.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-firewall-check",
+      "type": "icon",
+      "name": "Firewall Check",
+      "file": "icons/Tabler/Development/Firewall Check.svg",
+      "preview": "icons/Tabler/Development/Firewall Check.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-firewall-flame",
+      "type": "icon",
+      "name": "Firewall Flame",
+      "file": "icons/Tabler/Development/Firewall Flame.svg",
+      "preview": "icons/Tabler/Development/Firewall Flame.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-fish",
       "type": "icon",
       "name": "Fish",
       "file": "icons/Tabler/Animals/Fish.svg",
       "preview": "icons/Tabler/Animals/Fish.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-fridge",
+      "type": "icon",
+      "name": "Fridge",
+      "file": "icons/Tabler/Devices/Fridge.svg",
+      "preview": "icons/Tabler/Devices/Fridge.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-gpu",
+      "type": "icon",
+      "name": "Gpu",
+      "file": "icons/Tabler/Devices/Gpu.svg",
+      "preview": "icons/Tabler/Devices/Gpu.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1351,6 +1945,87 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-http-patch",
+      "type": "icon",
+      "name": "Http Patch",
+      "file": "icons/Tabler/Computers/Http Patch.svg",
+      "preview": "icons/Tabler/Computers/Http Patch.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-http-post",
+      "type": "icon",
+      "name": "Http Post",
+      "file": "icons/Tabler/Computers/Http Post.svg",
+      "preview": "icons/Tabler/Computers/Http Post.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-http-put",
+      "type": "icon",
+      "name": "Http Put",
+      "file": "icons/Tabler/Computers/Http Put.svg",
+      "preview": "icons/Tabler/Computers/Http Put.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-http-que",
+      "type": "icon",
+      "name": "Http Que",
+      "file": "icons/Tabler/Computers/Http Que.svg",
+      "preview": "icons/Tabler/Computers/Http Que.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-http-trace",
+      "type": "icon",
+      "name": "Http Trace",
+      "file": "icons/Tabler/Computers/Http Trace.svg",
+      "preview": "icons/Tabler/Computers/Http Trace.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-image-generation",
+      "type": "icon",
+      "name": "Image Generation",
+      "file": "icons/Tabler/Development/Image Generation.svg",
+      "preview": "icons/Tabler/Development/Image Generation.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-keyboard",
+      "type": "icon",
+      "name": "Keyboard",
+      "file": "icons/Tabler/Devices/Keyboard.svg",
+      "preview": "icons/Tabler/Devices/Keyboard.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-load-balancer",
+      "type": "icon",
+      "name": "Load Balancer",
+      "file": "icons/Tabler/Computers/Load Balancer.svg",
+      "preview": "icons/Tabler/Computers/Load Balancer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-logs",
+      "type": "icon",
+      "name": "Logs",
+      "file": "icons/Tabler/Development/Logs.svg",
+      "preview": "icons/Tabler/Development/Logs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-mail",
       "type": "icon",
       "name": "Mail",
@@ -1365,6 +2040,24 @@
       "name": "Mailbox",
       "file": "icons/Tabler/Communication/Mailbox.svg",
       "preview": "icons/Tabler/Communication/Mailbox.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mcp",
+      "type": "icon",
+      "name": "Mcp",
+      "file": "icons/Tabler/Development/Mcp.svg",
+      "preview": "icons/Tabler/Development/Mcp.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-memory",
+      "type": "icon",
+      "name": "Memory",
+      "file": "icons/Tabler/Devices/Memory.svg",
+      "preview": "icons/Tabler/Devices/Memory.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1387,11 +2080,74 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-microfrontends",
+      "type": "icon",
+      "name": "Microfrontends",
+      "file": "icons/Tabler/Development/Microfrontends.svg",
+      "preview": "icons/Tabler/Development/Microfrontends.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-middleware",
+      "type": "icon",
+      "name": "Middleware",
+      "file": "icons/Tabler/Development/Middleware.svg",
+      "preview": "icons/Tabler/Development/Middleware.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-model-ai",
+      "type": "icon",
+      "name": "Model Ai",
+      "file": "icons/Tabler/Development/Model Ai.svg",
+      "preview": "icons/Tabler/Development/Model Ai.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-mosque",
       "type": "icon",
       "name": "Mosque",
       "file": "icons/Tabler/Buildings/Mosque.svg",
       "preview": "icons/Tabler/Buildings/Mosque.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mouse",
+      "type": "icon",
+      "name": "Mouse",
+      "file": "icons/Tabler/Devices/Mouse.svg",
+      "preview": "icons/Tabler/Devices/Mouse.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-network",
+      "type": "icon",
+      "name": "Network",
+      "file": "icons/Tabler/Computers/Network.svg",
+      "preview": "icons/Tabler/Computers/Network.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-nfc",
+      "type": "icon",
+      "name": "Nfc",
+      "file": "icons/Tabler/Devices/Nfc.svg",
+      "preview": "icons/Tabler/Devices/Nfc.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-packages",
+      "type": "icon",
+      "name": "Packages",
+      "file": "icons/Tabler/Development/Packages.svg",
+      "preview": "icons/Tabler/Development/Packages.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1405,11 +2161,56 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-phone",
+      "type": "icon",
+      "name": "Phone",
+      "file": "icons/Tabler/Devices/Phone.svg",
+      "preview": "icons/Tabler/Devices/Phone.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-pig",
       "type": "icon",
       "name": "Pig",
       "file": "icons/Tabler/Animals/Pig.svg",
       "preview": "icons/Tabler/Animals/Pig.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pipeline",
+      "type": "icon",
+      "name": "Pipeline",
+      "file": "icons/Tabler/Development/Pipeline.svg",
+      "preview": "icons/Tabler/Development/Pipeline.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-play-bug",
+      "type": "icon",
+      "name": "Play Bug",
+      "file": "icons/Tabler/Development/Play Bug.svg",
+      "preview": "icons/Tabler/Development/Play Bug.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-play-bugs",
+      "type": "icon",
+      "name": "Play Bugs",
+      "file": "icons/Tabler/Development/Play Bugs.svg",
+      "preview": "icons/Tabler/Development/Play Bugs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-plug",
+      "type": "icon",
+      "name": "Plug",
+      "file": "icons/Tabler/Devices/Plug.svg",
+      "preview": "icons/Tabler/Devices/Plug.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1423,11 +2224,128 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-power",
+      "type": "icon",
+      "name": "Power",
+      "file": "icons/Tabler/Devices/Power.svg",
+      "preview": "icons/Tabler/Devices/Power.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-printer",
+      "type": "icon",
+      "name": "Printer",
+      "file": "icons/Tabler/Devices/Printer.svg",
+      "preview": "icons/Tabler/Devices/Printer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-prompt",
+      "type": "icon",
+      "name": "Prompt",
+      "file": "icons/Tabler/Development/Prompt.svg",
+      "preview": "icons/Tabler/Development/Prompt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-qrcode",
+      "type": "icon",
+      "name": "Qrcode",
+      "file": "icons/Tabler/Devices/Qrcode.svg",
+      "preview": "icons/Tabler/Devices/Qrcode.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-queue-pop-in",
+      "type": "icon",
+      "name": "Queue Pop In",
+      "file": "icons/Tabler/Development/Queue Pop In.svg",
+      "preview": "icons/Tabler/Development/Queue Pop In.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-queue-pop-out",
+      "type": "icon",
+      "name": "Queue Pop Out",
+      "file": "icons/Tabler/Development/Queue Pop Out.svg",
+      "preview": "icons/Tabler/Development/Queue Pop Out.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-relation-many-to-many",
+      "type": "icon",
+      "name": "Relation Many To Many",
+      "file": "icons/Tabler/Database/Relation Many To Many.svg",
+      "preview": "icons/Tabler/Database/Relation Many To Many.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-relation-one-to-many",
+      "type": "icon",
+      "name": "Relation One To Many",
+      "file": "icons/Tabler/Database/Relation One To Many.svg",
+      "preview": "icons/Tabler/Database/Relation One To Many.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-relation-one-to-one",
+      "type": "icon",
+      "name": "Relation One To One",
+      "file": "icons/Tabler/Database/Relation One To One.svg",
+      "preview": "icons/Tabler/Database/Relation One To One.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-rocking-chair",
       "type": "icon",
       "name": "Rocking Chair",
       "file": "icons/Tabler/Buildings/Rocking Chair.svg",
       "preview": "icons/Tabler/Buildings/Rocking Chair.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-router",
+      "type": "icon",
+      "name": "Router",
+      "file": "icons/Tabler/Devices/Router.svg",
+      "preview": "icons/Tabler/Devices/Router.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-row-insert-bottom",
+      "type": "icon",
+      "name": "Row Insert Bottom",
+      "file": "icons/Tabler/Database/Row Insert Bottom.svg",
+      "preview": "icons/Tabler/Database/Row Insert Bottom.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-row-insert-top",
+      "type": "icon",
+      "name": "Row Insert Top",
+      "file": "icons/Tabler/Database/Row Insert Top.svg",
+      "preview": "icons/Tabler/Database/Row Insert Top.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-row-remove",
+      "type": "icon",
+      "name": "Row Remove",
+      "file": "icons/Tabler/Database/Row Remove.svg",
+      "preview": "icons/Tabler/Database/Row Remove.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1441,11 +2359,137 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-schema",
+      "type": "icon",
+      "name": "Schema",
+      "file": "icons/Tabler/Database/Schema.svg",
+      "preview": "icons/Tabler/Database/Schema.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sdk",
+      "type": "icon",
+      "name": "Sdk",
+      "file": "icons/Tabler/Development/Sdk.svg",
+      "preview": "icons/Tabler/Development/Sdk.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-send",
       "type": "icon",
       "name": "Send",
       "file": "icons/Tabler/Communication/Send.svg",
       "preview": "icons/Tabler/Communication/Send.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-seo",
+      "type": "icon",
+      "name": "Seo",
+      "file": "icons/Tabler/Development/Seo.svg",
+      "preview": "icons/Tabler/Development/Seo.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-server",
+      "type": "icon",
+      "name": "Server",
+      "file": "icons/Tabler/Devices/Server.svg",
+      "preview": "icons/Tabler/Devices/Server.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-serverless",
+      "type": "icon",
+      "name": "Serverless",
+      "file": "icons/Tabler/Development/Serverless.svg",
+      "preview": "icons/Tabler/Development/Serverless.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-shredder",
+      "type": "icon",
+      "name": "Shredder",
+      "file": "icons/Tabler/Devices/Shredder.svg",
+      "preview": "icons/Tabler/Devices/Shredder.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-signal-2g",
+      "type": "icon",
+      "name": "Signal 2g",
+      "file": "icons/Tabler/Devices/Signal 2g.svg",
+      "preview": "icons/Tabler/Devices/Signal 2g.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-signal-3g",
+      "type": "icon",
+      "name": "Signal 3g",
+      "file": "icons/Tabler/Devices/Signal 3g.svg",
+      "preview": "icons/Tabler/Devices/Signal 3g.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-signal-4g",
+      "type": "icon",
+      "name": "Signal 4g",
+      "file": "icons/Tabler/Devices/Signal 4g.svg",
+      "preview": "icons/Tabler/Devices/Signal 4g.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-signal-5g",
+      "type": "icon",
+      "name": "Signal 5g",
+      "file": "icons/Tabler/Devices/Signal 5g.svg",
+      "preview": "icons/Tabler/Devices/Signal 5g.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-signal-e",
+      "type": "icon",
+      "name": "Signal E",
+      "file": "icons/Tabler/Devices/Signal E.svg",
+      "preview": "icons/Tabler/Devices/Signal E.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-signal-g",
+      "type": "icon",
+      "name": "Signal G",
+      "file": "icons/Tabler/Devices/Signal G.svg",
+      "preview": "icons/Tabler/Devices/Signal G.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-signal-h",
+      "type": "icon",
+      "name": "Signal H",
+      "file": "icons/Tabler/Devices/Signal H.svg",
+      "preview": "icons/Tabler/Devices/Signal H.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sitemap",
+      "type": "icon",
+      "name": "Sitemap",
+      "file": "icons/Tabler/Development/Sitemap.svg",
+      "preview": "icons/Tabler/Development/Sitemap.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1468,11 +2512,119 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-source-code",
+      "type": "icon",
+      "name": "Source Code",
+      "file": "icons/Tabler/Development/Source Code.svg",
+      "preview": "icons/Tabler/Development/Source Code.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-spider",
       "type": "icon",
       "name": "Spider",
       "file": "icons/Tabler/Animals/Spider.svg",
       "preview": "icons/Tabler/Animals/Spider.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-table",
+      "type": "icon",
+      "name": "Table",
+      "file": "icons/Tabler/Database/Table.svg",
+      "preview": "icons/Tabler/Database/Table.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-taiwan-dollar",
+      "type": "icon",
+      "name": "Taiwan Dollar",
+      "file": "icons/Tabler/Currencies/Taiwan Dollar.svg",
+      "preview": "icons/Tabler/Currencies/Taiwan Dollar.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tax",
+      "type": "icon",
+      "name": "Tax",
+      "file": "icons/Tabler/Currencies/Tax.svg",
+      "preview": "icons/Tabler/Currencies/Tax.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-thinking-high",
+      "type": "icon",
+      "name": "Thinking High",
+      "file": "icons/Tabler/Development/Thinking High.svg",
+      "preview": "icons/Tabler/Development/Thinking High.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-thinking-low",
+      "type": "icon",
+      "name": "Thinking Low",
+      "file": "icons/Tabler/Development/Thinking Low.svg",
+      "preview": "icons/Tabler/Development/Thinking Low.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-thinking-medium",
+      "type": "icon",
+      "name": "Thinking Medium",
+      "file": "icons/Tabler/Development/Thinking Medium.svg",
+      "preview": "icons/Tabler/Development/Thinking Medium.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-topology-bus",
+      "type": "icon",
+      "name": "Topology Bus",
+      "file": "icons/Tabler/Computers/Topology Bus.svg",
+      "preview": "icons/Tabler/Computers/Topology Bus.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-topology-complex",
+      "type": "icon",
+      "name": "Topology Complex",
+      "file": "icons/Tabler/Computers/Topology Complex.svg",
+      "preview": "icons/Tabler/Computers/Topology Complex.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-topology-full",
+      "type": "icon",
+      "name": "Topology Full",
+      "file": "icons/Tabler/Computers/Topology Full.svg",
+      "preview": "icons/Tabler/Computers/Topology Full.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-topology-ring",
+      "type": "icon",
+      "name": "Topology Ring",
+      "file": "icons/Tabler/Computers/Topology Ring.svg",
+      "preview": "icons/Tabler/Computers/Topology Ring.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-topology-star",
+      "type": "icon",
+      "name": "Topology Star",
+      "file": "icons/Tabler/Computers/Topology Star.svg",
+      "preview": "icons/Tabler/Computers/Topology Star.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1486,6 +2638,42 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-transaction-bitcoin",
+      "type": "icon",
+      "name": "Transaction Bitcoin",
+      "file": "icons/Tabler/Currencies/Transaction Bitcoin.svg",
+      "preview": "icons/Tabler/Currencies/Transaction Bitcoin.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-transaction-rupee",
+      "type": "icon",
+      "name": "Transaction Rupee",
+      "file": "icons/Tabler/Currencies/Transaction Rupee.svg",
+      "preview": "icons/Tabler/Currencies/Transaction Rupee.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-versions",
+      "type": "icon",
+      "name": "Versions",
+      "file": "icons/Tabler/Development/Versions.svg",
+      "preview": "icons/Tabler/Development/Versions.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-vinyl",
+      "type": "icon",
+      "name": "Vinyl",
+      "file": "icons/Tabler/Devices/Vinyl.svg",
+      "preview": "icons/Tabler/Devices/Vinyl.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-wall",
       "type": "icon",
       "name": "Wall",
@@ -1495,11 +2683,83 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-webhook",
+      "type": "icon",
+      "name": "Webhook",
+      "file": "icons/Tabler/Development/Webhook.svg",
+      "preview": "icons/Tabler/Development/Webhook.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-wifi",
+      "type": "icon",
+      "name": "Wifi",
+      "file": "icons/Tabler/Devices/Wifi.svg",
+      "preview": "icons/Tabler/Devices/Wifi.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-window",
       "type": "icon",
       "name": "Window",
       "file": "icons/Tabler/Buildings/Window.svg",
       "preview": "icons/Tabler/Buildings/Window.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-xbox-a",
+      "type": "icon",
+      "name": "Xbox A",
+      "file": "icons/Tabler/Devices/Xbox A.svg",
+      "preview": "icons/Tabler/Devices/Xbox A.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-xbox-b",
+      "type": "icon",
+      "name": "Xbox B",
+      "file": "icons/Tabler/Devices/Xbox B.svg",
+      "preview": "icons/Tabler/Devices/Xbox B.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-xbox-x",
+      "type": "icon",
+      "name": "Xbox X",
+      "file": "icons/Tabler/Devices/Xbox X.svg",
+      "preview": "icons/Tabler/Devices/Xbox X.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-xbox-y",
+      "type": "icon",
+      "name": "Xbox Y",
+      "file": "icons/Tabler/Devices/Xbox Y.svg",
+      "preview": "icons/Tabler/Devices/Xbox Y.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-zero-config",
+      "type": "icon",
+      "name": "Zero Config",
+      "file": "icons/Tabler/Development/Zero Config.svg",
+      "preview": "icons/Tabler/Development/Zero Config.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-zsh",
+      "type": "icon",
+      "name": "Zsh",
+      "file": "icons/Tabler/Development/Zsh.svg",
+      "preview": "icons/Tabler/Development/Zsh.svg",
       "sizeKb": 1,
       "category": "Tabler"
     }
