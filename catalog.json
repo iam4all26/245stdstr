@@ -901,6 +901,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-acorn",
+      "type": "icon",
+      "name": "Acorn",
+      "file": "icons/Tabler/Nature/Acorn.svg",
+      "preview": "icons/Tabler/Nature/Acorn.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-acrobatic",
+      "type": "icon",
+      "name": "Acrobatic",
+      "file": "icons/Tabler/Sport/Acrobatic.svg",
+      "preview": "icons/Tabler/Sport/Acrobatic.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-activity",
       "type": "icon",
       "name": "Activity",
@@ -919,11 +937,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-aerial-lift",
+      "type": "icon",
+      "name": "Aerial Lift",
+      "file": "icons/Tabler/Vehicles/Aerial Lift.svg",
+      "preview": "icons/Tabler/Vehicles/Aerial Lift.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-ai",
       "type": "icon",
       "name": "Ai",
       "file": "icons/Tabler/Development/Ai.svg",
       "preview": "icons/Tabler/Development/Ai.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-air-balloon",
+      "type": "icon",
+      "name": "Air Balloon",
+      "file": "icons/Tabler/Vehicles/Air Balloon.svg",
+      "preview": "icons/Tabler/Vehicles/Air Balloon.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -955,11 +991,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-alien",
+      "type": "icon",
+      "name": "Alien",
+      "file": "icons/Tabler/Nature/Alien.svg",
+      "preview": "icons/Tabler/Nature/Alien.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-alt",
       "type": "icon",
       "name": "Alt",
       "file": "icons/Tabler/Development/Alt.svg",
       "preview": "icons/Tabler/Development/Alt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ambulance",
+      "type": "icon",
+      "name": "Ambulance",
+      "file": "icons/Tabler/Vehicles/Ambulance.svg",
+      "preview": "icons/Tabler/Vehicles/Ambulance.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1072,11 +1126,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-atom",
+      "type": "icon",
+      "name": "Atom",
+      "file": "icons/Tabler/Nature/Atom.svg",
+      "preview": "icons/Tabler/Nature/Atom.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-auth-2fa",
       "type": "icon",
       "name": "Auth 2fa",
       "file": "icons/Tabler/Development/Auth 2fa.svg",
       "preview": "icons/Tabler/Development/Auth 2fa.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-automatic-gearbox",
+      "type": "icon",
+      "name": "Automatic Gearbox",
+      "file": "icons/Tabler/Vehicles/Automatic Gearbox.svg",
+      "preview": "icons/Tabler/Vehicles/Automatic Gearbox.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1108,6 +1180,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-backhoe",
+      "type": "icon",
+      "name": "Backhoe",
+      "file": "icons/Tabler/Vehicles/Backhoe.svg",
+      "preview": "icons/Tabler/Vehicles/Backhoe.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-backpack",
       "type": "icon",
       "name": "Backpack",
@@ -1135,6 +1216,51 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-ball-baseball",
+      "type": "icon",
+      "name": "Ball Baseball",
+      "file": "icons/Tabler/Sport/Ball Baseball.svg",
+      "preview": "icons/Tabler/Sport/Ball Baseball.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ball-bowling",
+      "type": "icon",
+      "name": "Ball Bowling",
+      "file": "icons/Tabler/Sport/Ball Bowling.svg",
+      "preview": "icons/Tabler/Sport/Ball Bowling.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ball-football",
+      "type": "icon",
+      "name": "Ball Football",
+      "file": "icons/Tabler/Sport/Ball Football.svg",
+      "preview": "icons/Tabler/Sport/Ball Football.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ball-tennis",
+      "type": "icon",
+      "name": "Ball Tennis",
+      "file": "icons/Tabler/Sport/Ball Tennis.svg",
+      "preview": "icons/Tabler/Sport/Ball Tennis.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-balloon",
+      "type": "icon",
+      "name": "Balloon",
+      "file": "icons/Tabler/Nature/Balloon.svg",
+      "preview": "icons/Tabler/Nature/Balloon.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-banana",
       "type": "icon",
       "name": "Banana",
@@ -1149,6 +1275,15 @@
       "name": "Bandage",
       "file": "icons/Tabler/Health/Bandage.svg",
       "preview": "icons/Tabler/Health/Bandage.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-barbell",
+      "type": "icon",
+      "name": "Barbell",
+      "file": "icons/Tabler/Sport/Barbell.svg",
+      "preview": "icons/Tabler/Sport/Barbell.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1212,6 +1347,15 @@
       "name": "Beer",
       "file": "icons/Tabler/Food/Beer.svg",
       "preview": "icons/Tabler/Food/Beer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bike",
+      "type": "icon",
+      "name": "Bike",
+      "file": "icons/Tabler/Vehicles/Bike.svg",
+      "preview": "icons/Tabler/Vehicles/Bike.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1315,11 +1459,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-bow",
+      "type": "icon",
+      "name": "Bow",
+      "file": "icons/Tabler/Sport/Bow.svg",
+      "preview": "icons/Tabler/Sport/Bow.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-bowl",
       "type": "icon",
       "name": "Bowl",
       "file": "icons/Tabler/Food/Bowl.svg",
       "preview": "icons/Tabler/Food/Bowl.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bowling",
+      "type": "icon",
+      "name": "Bowling",
+      "file": "icons/Tabler/Sport/Bowling.svg",
+      "preview": "icons/Tabler/Sport/Bowling.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1459,6 +1621,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-bulldozer",
+      "type": "icon",
+      "name": "Bulldozer",
+      "file": "icons/Tabler/Vehicles/Bulldozer.svg",
+      "preview": "icons/Tabler/Vehicles/Bulldozer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-burger",
       "type": "icon",
       "name": "Burger",
@@ -1468,11 +1639,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-bus",
+      "type": "icon",
+      "name": "Bus",
+      "file": "icons/Tabler/Vehicles/Bus.svg",
+      "preview": "icons/Tabler/Vehicles/Bus.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-businessplan",
       "type": "icon",
       "name": "Businessplan",
       "file": "icons/Tabler/E-commerce/Businessplan.svg",
       "preview": "icons/Tabler/E-commerce/Businessplan.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-butterfly",
+      "type": "icon",
+      "name": "Butterfly",
+      "file": "icons/Tabler/Nature/Butterfly.svg",
+      "preview": "icons/Tabler/Nature/Butterfly.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cactus",
+      "type": "icon",
+      "name": "Cactus",
+      "file": "icons/Tabler/Nature/Cactus.svg",
+      "preview": "icons/Tabler/Nature/Cactus.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1491,6 +1689,15 @@
       "name": "Camera",
       "file": "icons/Tabler/Media/Camera.svg",
       "preview": "icons/Tabler/Media/Camera.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-camper",
+      "type": "icon",
+      "name": "Camper",
+      "file": "icons/Tabler/Vehicles/Camper.svg",
+      "preview": "icons/Tabler/Vehicles/Camper.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1531,6 +1738,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-cannabis",
+      "type": "icon",
+      "name": "Cannabis",
+      "file": "icons/Tabler/Nature/Cannabis.svg",
+      "preview": "icons/Tabler/Nature/Cannabis.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-capture",
       "type": "icon",
       "name": "Capture",
@@ -1540,11 +1756,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-car",
+      "type": "icon",
+      "name": "Car",
+      "file": "icons/Tabler/Vehicles/Car.svg",
+      "preview": "icons/Tabler/Vehicles/Car.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-carambola",
       "type": "icon",
       "name": "Carambola",
       "file": "icons/Tabler/Food/Carambola.svg",
       "preview": "icons/Tabler/Food/Carambola.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-caravan",
+      "type": "icon",
+      "name": "Caravan",
+      "file": "icons/Tabler/Vehicles/Caravan.svg",
+      "preview": "icons/Tabler/Vehicles/Caravan.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1599,6 +1833,15 @@
       "name": "Chalkboard",
       "file": "icons/Tabler/Document/Chalkboard.svg",
       "preview": "icons/Tabler/Document/Chalkboard.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-charging-pile",
+      "type": "icon",
+      "name": "Charging Pile",
+      "file": "icons/Tabler/Vehicles/Charging Pile.svg",
+      "preview": "icons/Tabler/Vehicles/Charging Pile.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1837,6 +2080,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-cherry",
+      "type": "icon",
+      "name": "Cherry",
+      "file": "icons/Tabler/Nature/Cherry.svg",
+      "preview": "icons/Tabler/Nature/Cherry.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-chess",
+      "type": "icon",
+      "name": "Chess",
+      "file": "icons/Tabler/Sport/Chess.svg",
+      "preview": "icons/Tabler/Sport/Chess.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-chocolate",
       "type": "icon",
       "name": "Chocolate",
@@ -1846,11 +2107,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-christmas-tree",
+      "type": "icon",
+      "name": "Christmas Tree",
+      "file": "icons/Tabler/Nature/Christmas Tree.svg",
+      "preview": "icons/Tabler/Nature/Christmas Tree.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-clef",
       "type": "icon",
       "name": "Clef",
       "file": "icons/Tabler/Media/Clef.svg",
       "preview": "icons/Tabler/Media/Clef.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cliff-jumping",
+      "type": "icon",
+      "name": "Cliff Jumping",
+      "file": "icons/Tabler/Sport/Cliff Jumping.svg",
+      "preview": "icons/Tabler/Sport/Cliff Jumping.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1878,6 +2157,15 @@
       "name": "Cloud Data Connection",
       "file": "icons/Tabler/Computers/Cloud Data Connection.svg",
       "preview": "icons/Tabler/Computers/Cloud Data Connection.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-clover",
+      "type": "icon",
+      "name": "Clover",
+      "file": "icons/Tabler/Nature/Clover.svg",
+      "preview": "icons/Tabler/Nature/Clover.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1999,11 +2287,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-crane",
+      "type": "icon",
+      "name": "Crane",
+      "file": "icons/Tabler/Vehicles/Crane.svg",
+      "preview": "icons/Tabler/Vehicles/Crane.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-credit-card",
       "type": "icon",
       "name": "Credit Card",
       "file": "icons/Tabler/E-commerce/Credit Card.svg",
       "preview": "icons/Tabler/E-commerce/Credit Card.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cricket",
+      "type": "icon",
+      "name": "Cricket",
+      "file": "icons/Tabler/Sport/Cricket.svg",
+      "preview": "icons/Tabler/Sport/Cricket.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2017,11 +2323,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-crystal-ball",
+      "type": "icon",
+      "name": "Crystal Ball",
+      "file": "icons/Tabler/Nature/Crystal Ball.svg",
+      "preview": "icons/Tabler/Nature/Crystal Ball.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-cup",
       "type": "icon",
       "name": "Cup",
       "file": "icons/Tabler/Food/Cup.svg",
       "preview": "icons/Tabler/Food/Cup.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-curling",
+      "type": "icon",
+      "name": "Curling",
+      "file": "icons/Tabler/Sport/Curling.svg",
+      "preview": "icons/Tabler/Sport/Curling.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2215,6 +2539,42 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-drone",
+      "type": "icon",
+      "name": "Drone",
+      "file": "icons/Tabler/Vehicles/Drone.svg",
+      "preview": "icons/Tabler/Vehicles/Drone.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-drop-circle",
+      "type": "icon",
+      "name": "Drop Circle",
+      "file": "icons/Tabler/Nature/Drop Circle.svg",
+      "preview": "icons/Tabler/Nature/Drop Circle.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-droplets",
+      "type": "icon",
+      "name": "Droplets",
+      "file": "icons/Tabler/Nature/Droplets.svg",
+      "preview": "icons/Tabler/Nature/Droplets.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-dumbbell",
+      "type": "icon",
+      "name": "Dumbbell",
+      "file": "icons/Tabler/Sport/Dumbbell.svg",
+      "preview": "icons/Tabler/Sport/Dumbbell.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-dumpling",
       "type": "icon",
       "name": "Dumpling",
@@ -2287,6 +2647,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-engine",
+      "type": "icon",
+      "name": "Engine",
+      "file": "icons/Tabler/Vehicles/Engine.svg",
+      "preview": "icons/Tabler/Vehicles/Engine.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-equal",
       "type": "icon",
       "name": "Equal",
@@ -2310,6 +2679,15 @@
       "name": "Escalator",
       "file": "icons/Tabler/Map/Escalator.svg",
       "preview": "icons/Tabler/Map/Escalator.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-exercise-ball",
+      "type": "icon",
+      "name": "Exercise Ball",
+      "file": "icons/Tabler/Sport/Exercise Ball.svg",
+      "preview": "icons/Tabler/Sport/Exercise Ball.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2341,11 +2719,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-feather",
+      "type": "icon",
+      "name": "Feather",
+      "file": "icons/Tabler/Nature/Feather.svg",
+      "preview": "icons/Tabler/Nature/Feather.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-fence",
       "type": "icon",
       "name": "Fence",
       "file": "icons/Tabler/Buildings/Fence.svg",
       "preview": "icons/Tabler/Buildings/Fence.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ferry",
+      "type": "icon",
+      "name": "Ferry",
+      "file": "icons/Tabler/Vehicles/Ferry.svg",
+      "preview": "icons/Tabler/Vehicles/Ferry.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2566,6 +2962,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-firetruck",
+      "type": "icon",
+      "name": "Firetruck",
+      "file": "icons/Tabler/Vehicles/Firetruck.svg",
+      "preview": "icons/Tabler/Vehicles/Firetruck.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-firewall-check",
       "type": "icon",
       "name": "Firewall Check",
@@ -2611,6 +3016,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-flame",
+      "type": "icon",
+      "name": "Flame",
+      "file": "icons/Tabler/Nature/Flame.svg",
+      "preview": "icons/Tabler/Nature/Flame.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-flask",
       "type": "icon",
       "name": "Flask",
@@ -2625,6 +3039,15 @@
       "name": "Flip Flops",
       "file": "icons/Tabler/E-commerce/Flip Flops.svg",
       "preview": "icons/Tabler/E-commerce/Flip Flops.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-flower",
+      "type": "icon",
+      "name": "Flower",
+      "file": "icons/Tabler/Nature/Flower.svg",
+      "preview": "icons/Tabler/Nature/Flower.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2656,6 +3079,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-forklift",
+      "type": "icon",
+      "name": "Forklift",
+      "file": "icons/Tabler/Vehicles/Forklift.svg",
+      "preview": "icons/Tabler/Vehicles/Forklift.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-fountain",
       "type": "icon",
       "name": "Fountain",
@@ -2679,6 +3111,24 @@
       "name": "Function",
       "file": "icons/Tabler/Math/Function.svg",
       "preview": "icons/Tabler/Math/Function.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-garden-cart",
+      "type": "icon",
+      "name": "Garden Cart",
+      "file": "icons/Tabler/Vehicles/Garden Cart.svg",
+      "preview": "icons/Tabler/Vehicles/Garden Cart.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-gas-station",
+      "type": "icon",
+      "name": "Gas Station",
+      "file": "icons/Tabler/Vehicles/Gas Station.svg",
+      "preview": "icons/Tabler/Vehicles/Gas Station.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2715,6 +3165,15 @@
       "name": "Globe",
       "file": "icons/Tabler/Map/Globe.svg",
       "preview": "icons/Tabler/Map/Globe.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-golf",
+      "type": "icon",
+      "name": "Golf",
+      "file": "icons/Tabler/Sport/Golf.svg",
+      "preview": "icons/Tabler/Sport/Golf.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2760,6 +3219,15 @@
       "name": "Grill",
       "file": "icons/Tabler/Food/Grill.svg",
       "preview": "icons/Tabler/Food/Grill.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-growth",
+      "type": "icon",
+      "name": "Growth",
+      "file": "icons/Tabler/Nature/Growth.svg",
+      "preview": "icons/Tabler/Nature/Growth.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2926,6 +3394,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-helicopter",
+      "type": "icon",
+      "name": "Helicopter",
+      "file": "icons/Tabler/Vehicles/Helicopter.svg",
+      "preview": "icons/Tabler/Vehicles/Helicopter.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-helmet",
+      "type": "icon",
+      "name": "Helmet",
+      "file": "icons/Tabler/Sport/Helmet.svg",
+      "preview": "icons/Tabler/Sport/Helmet.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-home",
       "type": "icon",
       "name": "Home",
@@ -3061,11 +3547,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-hula-hoop",
+      "type": "icon",
+      "name": "Hula Hoop",
+      "file": "icons/Tabler/Sport/Hula Hoop.svg",
+      "preview": "icons/Tabler/Sport/Hula Hoop.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-ice-cream",
       "type": "icon",
       "name": "Ice Cream",
       "file": "icons/Tabler/Food/Ice Cream.svg",
       "preview": "icons/Tabler/Food/Ice Cream.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ice-skating",
+      "type": "icon",
+      "name": "Ice Skating",
+      "file": "icons/Tabler/Sport/Ice Skating.svg",
+      "preview": "icons/Tabler/Sport/Ice Skating.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-iceberg",
+      "type": "icon",
+      "name": "Iceberg",
+      "file": "icons/Tabler/Nature/Iceberg.svg",
+      "preview": "icons/Tabler/Nature/Iceberg.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3106,6 +3619,42 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-jetski",
+      "type": "icon",
+      "name": "Jetski",
+      "file": "icons/Tabler/Vehicles/Jetski.svg",
+      "preview": "icons/Tabler/Vehicles/Jetski.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-jump-rope",
+      "type": "icon",
+      "name": "Jump Rope",
+      "file": "icons/Tabler/Sport/Jump Rope.svg",
+      "preview": "icons/Tabler/Sport/Jump Rope.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-karate",
+      "type": "icon",
+      "name": "Karate",
+      "file": "icons/Tabler/Sport/Karate.svg",
+      "preview": "icons/Tabler/Sport/Karate.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-kayak",
+      "type": "icon",
+      "name": "Kayak",
+      "file": "icons/Tabler/Sport/Kayak.svg",
+      "preview": "icons/Tabler/Sport/Kayak.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-keyboard",
       "type": "icon",
       "name": "Keyboard",
@@ -3129,6 +3678,15 @@
       "name": "Keyframes",
       "file": "icons/Tabler/Media/Keyframes.svg",
       "preview": "icons/Tabler/Media/Keyframes.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-leaf",
+      "type": "icon",
+      "name": "Leaf",
+      "file": "icons/Tabler/Nature/Leaf.svg",
+      "preview": "icons/Tabler/Nature/Leaf.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3313,11 +3871,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-medal",
+      "type": "icon",
+      "name": "Medal",
+      "file": "icons/Tabler/Sport/Medal.svg",
+      "preview": "icons/Tabler/Sport/Medal.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-medicine-syrup",
       "type": "icon",
       "name": "Medicine Syrup",
       "file": "icons/Tabler/Health/Medicine Syrup.svg",
       "preview": "icons/Tabler/Health/Medicine Syrup.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-meeple",
+      "type": "icon",
+      "name": "Meeple",
+      "file": "icons/Tabler/Sport/Meeple.svg",
+      "preview": "icons/Tabler/Sport/Meeple.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3354,6 +3930,15 @@
       "name": "Messages",
       "file": "icons/Tabler/Communication/Messages.svg",
       "preview": "icons/Tabler/Communication/Messages.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-meteor",
+      "type": "icon",
+      "name": "Meteor",
+      "file": "icons/Tabler/Nature/Meteor.svg",
+      "preview": "icons/Tabler/Nature/Meteor.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3502,11 +4087,290 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-mood-boy",
+      "type": "icon",
+      "name": "Mood Boy",
+      "file": "icons/Tabler/Mood/Mood Boy.svg",
+      "preview": "icons/Tabler/Mood/Mood Boy.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-check",
+      "type": "icon",
+      "name": "Mood Check",
+      "file": "icons/Tabler/Mood/Mood Check.svg",
+      "preview": "icons/Tabler/Mood/Mood Check.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-cog",
+      "type": "icon",
+      "name": "Mood Cog",
+      "file": "icons/Tabler/Mood/Mood Cog.svg",
+      "preview": "icons/Tabler/Mood/Mood Cog.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-cry",
+      "type": "icon",
+      "name": "Mood Cry",
+      "file": "icons/Tabler/Mood/Mood Cry.svg",
+      "preview": "icons/Tabler/Mood/Mood Cry.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-dollar",
+      "type": "icon",
+      "name": "Mood Dollar",
+      "file": "icons/Tabler/Mood/Mood Dollar.svg",
+      "preview": "icons/Tabler/Mood/Mood Dollar.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-edit",
+      "type": "icon",
+      "name": "Mood Edit",
+      "file": "icons/Tabler/Mood/Mood Edit.svg",
+      "preview": "icons/Tabler/Mood/Mood Edit.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-empty",
+      "type": "icon",
+      "name": "Mood Empty",
+      "file": "icons/Tabler/Mood/Mood Empty.svg",
+      "preview": "icons/Tabler/Mood/Mood Empty.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-happy",
+      "type": "icon",
+      "name": "Mood Happy",
+      "file": "icons/Tabler/Mood/Mood Happy.svg",
+      "preview": "icons/Tabler/Mood/Mood Happy.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-heart",
+      "type": "icon",
+      "name": "Mood Heart",
+      "file": "icons/Tabler/Mood/Mood Heart.svg",
+      "preview": "icons/Tabler/Mood/Mood Heart.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-kid",
+      "type": "icon",
+      "name": "Mood Kid",
+      "file": "icons/Tabler/Mood/Mood Kid.svg",
+      "preview": "icons/Tabler/Mood/Mood Kid.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-minus",
+      "type": "icon",
+      "name": "Mood Minus",
+      "file": "icons/Tabler/Mood/Mood Minus.svg",
+      "preview": "icons/Tabler/Mood/Mood Minus.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-nerd",
+      "type": "icon",
+      "name": "Mood Nerd",
+      "file": "icons/Tabler/Mood/Mood Nerd.svg",
+      "preview": "icons/Tabler/Mood/Mood Nerd.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-off",
+      "type": "icon",
+      "name": "Mood Off",
+      "file": "icons/Tabler/Mood/Mood Off.svg",
+      "preview": "icons/Tabler/Mood/Mood Off.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-pin",
+      "type": "icon",
+      "name": "Mood Pin",
+      "file": "icons/Tabler/Mood/Mood Pin.svg",
+      "preview": "icons/Tabler/Mood/Mood Pin.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-plus",
+      "type": "icon",
+      "name": "Mood Plus",
+      "file": "icons/Tabler/Mood/Mood Plus.svg",
+      "preview": "icons/Tabler/Mood/Mood Plus.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-sad",
+      "type": "icon",
+      "name": "Mood Sad",
+      "file": "icons/Tabler/Mood/Mood Sad.svg",
+      "preview": "icons/Tabler/Mood/Mood Sad.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-search",
+      "type": "icon",
+      "name": "Mood Search",
+      "file": "icons/Tabler/Mood/Mood Search.svg",
+      "preview": "icons/Tabler/Mood/Mood Search.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-share",
+      "type": "icon",
+      "name": "Mood Share",
+      "file": "icons/Tabler/Mood/Mood Share.svg",
+      "preview": "icons/Tabler/Mood/Mood Share.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-sick",
+      "type": "icon",
+      "name": "Mood Sick",
+      "file": "icons/Tabler/Mood/Mood Sick.svg",
+      "preview": "icons/Tabler/Mood/Mood Sick.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-sing",
+      "type": "icon",
+      "name": "Mood Sing",
+      "file": "icons/Tabler/Mood/Mood Sing.svg",
+      "preview": "icons/Tabler/Mood/Mood Sing.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-smile",
+      "type": "icon",
+      "name": "Mood Smile",
+      "file": "icons/Tabler/Mood/Mood Smile.svg",
+      "preview": "icons/Tabler/Mood/Mood Smile.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-spark",
+      "type": "icon",
+      "name": "Mood Spark",
+      "file": "icons/Tabler/Mood/Mood Spark.svg",
+      "preview": "icons/Tabler/Mood/Mood Spark.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-tongue",
+      "type": "icon",
+      "name": "Mood Tongue",
+      "file": "icons/Tabler/Mood/Mood Tongue.svg",
+      "preview": "icons/Tabler/Mood/Mood Tongue.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-up",
+      "type": "icon",
+      "name": "Mood Up",
+      "file": "icons/Tabler/Mood/Mood Up.svg",
+      "preview": "icons/Tabler/Mood/Mood Up.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-wink",
+      "type": "icon",
+      "name": "Mood Wink",
+      "file": "icons/Tabler/Mood/Mood Wink.svg",
+      "preview": "icons/Tabler/Mood/Mood Wink.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-wrrr",
+      "type": "icon",
+      "name": "Mood Wrrr",
+      "file": "icons/Tabler/Mood/Mood Wrrr.svg",
+      "preview": "icons/Tabler/Mood/Mood Wrrr.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-x",
+      "type": "icon",
+      "name": "Mood X",
+      "file": "icons/Tabler/Mood/Mood X.svg",
+      "preview": "icons/Tabler/Mood/Mood X.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-xd",
+      "type": "icon",
+      "name": "Mood Xd",
+      "file": "icons/Tabler/Mood/Mood Xd.svg",
+      "preview": "icons/Tabler/Mood/Mood Xd.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-moped",
+      "type": "icon",
+      "name": "Moped",
+      "file": "icons/Tabler/Vehicles/Moped.svg",
+      "preview": "icons/Tabler/Vehicles/Moped.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-mosque",
       "type": "icon",
       "name": "Mosque",
       "file": "icons/Tabler/Buildings/Mosque.svg",
       "preview": "icons/Tabler/Buildings/Mosque.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-motorbike",
+      "type": "icon",
+      "name": "Motorbike",
+      "file": "icons/Tabler/Vehicles/Motorbike.svg",
+      "preview": "icons/Tabler/Vehicles/Motorbike.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mountain",
+      "type": "icon",
+      "name": "Mountain",
+      "file": "icons/Tabler/Nature/Mountain.svg",
+      "preview": "icons/Tabler/Nature/Mountain.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3637,11 +4501,47 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-olympic-torch",
+      "type": "icon",
+      "name": "Olympic Torch",
+      "file": "icons/Tabler/Sport/Olympic Torch.svg",
+      "preview": "icons/Tabler/Sport/Olympic Torch.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-olympics",
+      "type": "icon",
+      "name": "Olympics",
+      "file": "icons/Tabler/Sport/Olympics.svg",
+      "preview": "icons/Tabler/Sport/Olympics.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-omega",
       "type": "icon",
       "name": "Omega",
       "file": "icons/Tabler/Math/Omega.svg",
       "preview": "icons/Tabler/Math/Omega.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-orbit",
+      "type": "icon",
+      "name": "Orbit",
+      "file": "icons/Tabler/Nature/Orbit.svg",
+      "preview": "icons/Tabler/Nature/Orbit.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-orbits",
+      "type": "icon",
+      "name": "Orbits",
+      "file": "icons/Tabler/Nature/Orbits.svg",
+      "preview": "icons/Tabler/Nature/Orbits.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3687,6 +4587,15 @@
       "name": "Paperclip",
       "file": "icons/Tabler/Document/Paperclip.svg",
       "preview": "icons/Tabler/Document/Paperclip.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-parachute",
+      "type": "icon",
+      "name": "Parachute",
+      "file": "icons/Tabler/Vehicles/Parachute.svg",
+      "preview": "icons/Tabler/Vehicles/Parachute.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3826,6 +4735,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-ping-pong",
+      "type": "icon",
+      "name": "Ping Pong",
+      "file": "icons/Tabler/Sport/Ping Pong.svg",
+      "preview": "icons/Tabler/Sport/Ping Pong.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-pinned",
       "type": "icon",
       "name": "Pinned",
@@ -3853,11 +4771,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-plane",
+      "type": "icon",
+      "name": "Plane",
+      "file": "icons/Tabler/Vehicles/Plane.svg",
+      "preview": "icons/Tabler/Vehicles/Plane.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-planet",
       "type": "icon",
       "name": "Planet",
       "file": "icons/Tabler/Map/Planet.svg",
       "preview": "icons/Tabler/Map/Planet.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-plant",
+      "type": "icon",
+      "name": "Plant",
+      "file": "icons/Tabler/Nature/Plant.svg",
+      "preview": "icons/Tabler/Nature/Plant.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3876,6 +4812,24 @@
       "name": "Play Bugs",
       "file": "icons/Tabler/Development/Play Bugs.svg",
       "preview": "icons/Tabler/Development/Play Bugs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-play-football",
+      "type": "icon",
+      "name": "Play Football",
+      "file": "icons/Tabler/Sport/Play Football.svg",
+      "preview": "icons/Tabler/Sport/Play Football.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-play-handball",
+      "type": "icon",
+      "name": "Play Handball",
+      "file": "icons/Tabler/Sport/Play Handball.svg",
+      "preview": "icons/Tabler/Sport/Play Handball.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4002,6 +4956,15 @@
       "name": "Pokeball",
       "file": "icons/Tabler/Map/Pokeball.svg",
       "preview": "icons/Tabler/Map/Pokeball.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pool",
+      "type": "icon",
+      "name": "Pool",
+      "file": "icons/Tabler/Sport/Pool.svg",
+      "preview": "icons/Tabler/Sport/Pool.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4222,6 +5185,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-rings",
+      "type": "icon",
+      "name": "Rings",
+      "file": "icons/Tabler/Sport/Rings.svg",
+      "preview": "icons/Tabler/Sport/Rings.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ripple",
+      "type": "icon",
+      "name": "Ripple",
+      "file": "icons/Tabler/Nature/Ripple.svg",
+      "preview": "icons/Tabler/Nature/Ripple.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-road",
       "type": "icon",
       "name": "Road",
@@ -4245,6 +5226,24 @@
       "name": "Rocking Chair",
       "file": "icons/Tabler/Buildings/Rocking Chair.svg",
       "preview": "icons/Tabler/Buildings/Rocking Chair.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-roller-skating",
+      "type": "icon",
+      "name": "Roller Skating",
+      "file": "icons/Tabler/Sport/Roller Skating.svg",
+      "preview": "icons/Tabler/Sport/Roller Skating.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-rollercoaster",
+      "type": "icon",
+      "name": "Rollercoaster",
+      "file": "icons/Tabler/Vehicles/Rollercoaster.svg",
+      "preview": "icons/Tabler/Vehicles/Rollercoaster.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4312,6 +5311,33 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-rugby",
+      "type": "icon",
+      "name": "Rugby",
+      "file": "icons/Tabler/Sport/Rugby.svg",
+      "preview": "icons/Tabler/Sport/Rugby.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-run",
+      "type": "icon",
+      "name": "Run",
+      "file": "icons/Tabler/Sport/Run.svg",
+      "preview": "icons/Tabler/Sport/Run.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sailboat",
+      "type": "icon",
+      "name": "Sailboat",
+      "file": "icons/Tabler/Vehicles/Sailboat.svg",
+      "preview": "icons/Tabler/Vehicles/Sailboat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-salad",
       "type": "icon",
       "name": "Salad",
@@ -4366,6 +5392,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-scooter",
+      "type": "icon",
+      "name": "Scooter",
+      "file": "icons/Tabler/Vehicles/Scooter.svg",
+      "preview": "icons/Tabler/Vehicles/Scooter.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-scoreboard",
+      "type": "icon",
+      "name": "Scoreboard",
+      "file": "icons/Tabler/Sport/Scoreboard.svg",
+      "preview": "icons/Tabler/Sport/Scoreboard.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-script",
       "type": "icon",
       "name": "Script",
@@ -4375,11 +5419,47 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-scuba-diving",
+      "type": "icon",
+      "name": "Scuba Diving",
+      "file": "icons/Tabler/Sport/Scuba Diving.svg",
+      "preview": "icons/Tabler/Sport/Scuba Diving.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-scuba-mask",
+      "type": "icon",
+      "name": "Scuba Mask",
+      "file": "icons/Tabler/Sport/Scuba Mask.svg",
+      "preview": "icons/Tabler/Sport/Scuba Mask.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-sdk",
       "type": "icon",
       "name": "Sdk",
       "file": "icons/Tabler/Development/Sdk.svg",
       "preview": "icons/Tabler/Development/Sdk.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-seedling",
+      "type": "icon",
+      "name": "Seedling",
+      "file": "icons/Tabler/Nature/Seedling.svg",
+      "preview": "icons/Tabler/Nature/Seedling.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-segway",
+      "type": "icon",
+      "name": "Segway",
+      "file": "icons/Tabler/Vehicles/Segway.svg",
+      "preview": "icons/Tabler/Vehicles/Segway.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4425,6 +5505,15 @@
       "name": "Shareplay",
       "file": "icons/Tabler/Media/Shareplay.svg",
       "preview": "icons/Tabler/Media/Shareplay.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ship",
+      "type": "icon",
+      "name": "Ship",
+      "file": "icons/Tabler/Vehicles/Ship.svg",
+      "preview": "icons/Tabler/Vehicles/Ship.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4546,6 +5635,33 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-skateboard",
+      "type": "icon",
+      "name": "Skateboard",
+      "file": "icons/Tabler/Vehicles/Skateboard.svg",
+      "preview": "icons/Tabler/Vehicles/Skateboard.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-skateboarding",
+      "type": "icon",
+      "name": "Skateboarding",
+      "file": "icons/Tabler/Sport/Skateboarding.svg",
+      "preview": "icons/Tabler/Sport/Skateboarding.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ski-jumping",
+      "type": "icon",
+      "name": "Ski Jumping",
+      "file": "icons/Tabler/Sport/Ski Jumping.svg",
+      "preview": "icons/Tabler/Sport/Ski Jumping.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-skull",
       "type": "icon",
       "name": "Skull",
@@ -4560,6 +5676,15 @@
       "name": "Slash",
       "file": "icons/Tabler/Math/Slash.svg",
       "preview": "icons/Tabler/Math/Slash.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sleigh",
+      "type": "icon",
+      "name": "Sleigh",
+      "file": "icons/Tabler/Vehicles/Sleigh.svg",
+      "preview": "icons/Tabler/Vehicles/Sleigh.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4587,6 +5712,24 @@
       "name": "Snail",
       "file": "icons/Tabler/Animals/Snail.svg",
       "preview": "icons/Tabler/Animals/Snail.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-snowman",
+      "type": "icon",
+      "name": "Snowman",
+      "file": "icons/Tabler/Nature/Snowman.svg",
+      "preview": "icons/Tabler/Nature/Snowman.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-soccer-field",
+      "type": "icon",
+      "name": "Soccer Field",
+      "file": "icons/Tabler/Sport/Soccer Field.svg",
+      "preview": "icons/Tabler/Sport/Soccer Field.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4627,11 +5770,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-speedboat",
+      "type": "icon",
+      "name": "Speedboat",
+      "file": "icons/Tabler/Vehicles/Speedboat.svg",
+      "preview": "icons/Tabler/Vehicles/Speedboat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-spider",
       "type": "icon",
       "name": "Spider",
       "file": "icons/Tabler/Animals/Spider.svg",
       "preview": "icons/Tabler/Animals/Spider.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sport-billiard",
+      "type": "icon",
+      "name": "Sport Billiard",
+      "file": "icons/Tabler/Sport/Sport Billiard.svg",
+      "preview": "icons/Tabler/Sport/Sport Billiard.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4650,6 +5811,15 @@
       "name": "Stethoscope",
       "file": "icons/Tabler/Health/Stethoscope.svg",
       "preview": "icons/Tabler/Health/Stethoscope.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-stretching",
+      "type": "icon",
+      "name": "Stretching",
+      "file": "icons/Tabler/Sport/Stretching.svg",
+      "preview": "icons/Tabler/Sport/Stretching.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4677,6 +5847,15 @@
       "name": "Sunglasses",
       "file": "icons/Tabler/Health/Sunglasses.svg",
       "preview": "icons/Tabler/Health/Sunglasses.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-swimming",
+      "type": "icon",
+      "name": "Swimming",
+      "file": "icons/Tabler/Sport/Swimming.svg",
+      "preview": "icons/Tabler/Sport/Swimming.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4879,6 +6058,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-tic-tac",
+      "type": "icon",
+      "name": "Tic Tac",
+      "file": "icons/Tabler/Sport/Tic Tac.svg",
+      "preview": "icons/Tabler/Sport/Tic Tac.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-ticket",
       "type": "icon",
       "name": "Ticket",
@@ -4938,6 +6126,15 @@
       "name": "Topology Star",
       "file": "icons/Tabler/Computers/Topology Star.svg",
       "preview": "icons/Tabler/Computers/Topology Star.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tournament",
+      "type": "icon",
+      "name": "Tournament",
+      "file": "icons/Tabler/Sport/Tournament.svg",
+      "preview": "icons/Tabler/Sport/Tournament.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -5014,6 +6211,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-treadmill",
+      "type": "icon",
+      "name": "Treadmill",
+      "file": "icons/Tabler/Sport/Treadmill.svg",
+      "preview": "icons/Tabler/Sport/Treadmill.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-tree",
       "type": "icon",
       "name": "Tree",
@@ -5028,6 +6234,33 @@
       "name": "Trees",
       "file": "icons/Tabler/Map/Trees.svg",
       "preview": "icons/Tabler/Map/Trees.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-trekking",
+      "type": "icon",
+      "name": "Trekking",
+      "file": "icons/Tabler/Sport/Trekking.svg",
+      "preview": "icons/Tabler/Sport/Trekking.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-trophy",
+      "type": "icon",
+      "name": "Trophy",
+      "file": "icons/Tabler/Sport/Trophy.svg",
+      "preview": "icons/Tabler/Sport/Trophy.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-twig",
+      "type": "icon",
+      "name": "Twig",
+      "file": "icons/Tabler/Nature/Twig.svg",
+      "preview": "icons/Tabler/Nature/Twig.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -5113,6 +6346,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-walk",
+      "type": "icon",
+      "name": "Walk",
+      "file": "icons/Tabler/Sport/Walk.svg",
+      "preview": "icons/Tabler/Sport/Walk.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-wall",
       "type": "icon",
       "name": "Wall",
@@ -5127,6 +6369,15 @@
       "name": "Wallet",
       "file": "icons/Tabler/E-commerce/Wallet.svg",
       "preview": "icons/Tabler/E-commerce/Wallet.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-waterpolo",
+      "type": "icon",
+      "name": "Waterpolo",
+      "file": "icons/Tabler/Sport/Waterpolo.svg",
+      "preview": "icons/Tabler/Sport/Waterpolo.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -5253,6 +6504,15 @@
       "name": "Xbox Y",
       "file": "icons/Tabler/Devices/Xbox Y.svg",
       "preview": "icons/Tabler/Devices/Xbox Y.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-yoga",
+      "type": "icon",
+      "name": "Yoga",
+      "file": "icons/Tabler/Sport/Yoga.svg",
+      "preview": "icons/Tabler/Sport/Yoga.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
