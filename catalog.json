@@ -7,7 +7,8 @@
       "name": "Parchment Gold Wave",
       "file": "backgrounds/1001436003.png",
       "preview": "backgrounds/1001436003.png",
-      "sizeKb": 1169
+      "sizeKb": 1169,
+      "hint": "general lessons, school, reading, books"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-01",
@@ -16,7 +17,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_01.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_01.png",
       "sizeKb": 605,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "graphic design, art, creativity"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-04",
@@ -25,7 +27,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_04.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_04.png",
       "sizeKb": 806,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "coding, programming, software"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-05",
@@ -34,7 +37,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_05.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_05.png",
       "sizeKb": 576,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, mobile development"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-06",
@@ -43,7 +47,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_06.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_06.png",
       "sizeKb": 585,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, simple clean look"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-07",
@@ -52,7 +57,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_07.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_07.png",
       "sizeKb": 591,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Flutter, app development, technology"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-08",
@@ -61,7 +67,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_08.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_08.png",
       "sizeKb": 722,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Flutter apps, mobile app design"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-09",
@@ -70,7 +77,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_09.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_09.png",
       "sizeKb": 612,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Flutter, app development, settings"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-10",
@@ -79,7 +87,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_10.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_10.png",
       "sizeKb": 666,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, networks, connected devices"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-11",
@@ -88,7 +97,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_11.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_11.png",
       "sizeKb": 575,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, minimal technology"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-12",
@@ -97,7 +107,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_12.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_12.png",
       "sizeKb": 473,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "developer tools, GitHub, app development"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-14",
@@ -106,7 +117,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_14.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_14.png",
       "sizeKb": 667,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Flutter apps, coding, software layers"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-15",
@@ -115,7 +127,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_15.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_15.png",
       "sizeKb": 687,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android Studio, app building"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-16",
@@ -124,7 +137,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_16.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_16.png",
       "sizeKb": 704,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "UI design, app wireframes, layers"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-17",
@@ -133,7 +147,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_17.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_17.png",
       "sizeKb": 492,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, phones, tech topics"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-18",
@@ -142,7 +157,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_18.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_18.png",
       "sizeKb": 604,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "graphic design, pen tool, colours"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-19",
@@ -151,7 +167,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_19.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_19.png",
       "sizeKb": 602,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "typography, fonts, design"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-20",
@@ -160,7 +177,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_20.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_20.png",
       "sizeKb": 743,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, mobile development"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-21",
@@ -169,7 +187,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_21.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_21.png",
       "sizeKb": 541,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, coding, web and app code"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-22",
@@ -178,7 +197,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_22.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_22.png",
       "sizeKb": 579,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, app launch, success"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-23",
@@ -187,7 +207,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_23.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_23.png",
       "sizeKb": 527,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Flutter apps, app launch"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-24",
@@ -196,7 +217,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_24.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_24.png",
       "sizeKb": 619,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "networks, connected systems, apps"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-25",
@@ -205,7 +227,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_25.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_25.png",
       "sizeKb": 480,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Flutter apps, Google Play Store"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-26",
@@ -214,7 +237,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_26.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_26.png",
       "sizeKb": 589,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "UI design, app design, screens"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-27",
@@ -223,7 +247,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_27.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_27.png",
       "sizeKb": 605,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, technology, circuits"
     },
     {
       "id": "background-kainuwa-white-background-1-kainuwa-background-28",
@@ -232,7 +257,8 @@
       "file": "backgrounds/Kainuwa white background 1/Kainuwa_Background_28.png",
       "preview": "backgrounds/Kainuwa white background 1/Kainuwa_Background_28.png",
       "sizeKb": 507,
-      "category": "Kainuwa white background 1"
+      "category": "Kainuwa white background 1",
+      "hint": "Android apps, coding, nature touch"
     },
     {
       "id": "background-kainuwa-white-background-2-file-000000003ac881f4a5e3bc91af0b2b08",
@@ -241,7 +267,8 @@
       "file": "backgrounds/Kainuwa white background 2/file_000000003ac881f4a5e3bc91af0b2b08.png",
       "preview": "backgrounds/Kainuwa white background 2/file_000000003ac881f4a5e3bc91af0b2b08.png",
       "sizeKb": 508,
-      "category": "Kainuwa white background 2"
+      "category": "Kainuwa white background 2",
+      "hint": "Flutter apps, app showcase"
     },
     {
       "id": "background-kainuwa-white-background-2-file-00000000805882109115115b93a513ec",
@@ -250,7 +277,8 @@
       "file": "backgrounds/Kainuwa white background 2/file_00000000805882109115115b93a513ec.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000805882109115115b93a513ec.png",
       "sizeKb": 478,
-      "category": "Kainuwa white background 2"
+      "category": "Kainuwa white background 2",
+      "hint": "Android Studio, coding"
     },
     {
       "id": "background-kainuwa-white-background-2-file-00000000bac48243b628bb865eae8a5f",
@@ -259,7 +287,8 @@
       "file": "backgrounds/Kainuwa white background 2/file_00000000bac48243b628bb865eae8a5f.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000bac48243b628bb865eae8a5f.png",
       "sizeKb": 384,
-      "category": "Kainuwa white background 2"
+      "category": "Kainuwa white background 2",
+      "hint": "Google Play Store, publishing apps"
     },
     {
       "id": "background-kainuwa-white-background-2-file-00000000c4048210b1a80cb40645b0c3",
@@ -268,7 +297,8 @@
       "file": "backgrounds/Kainuwa white background 2/file_00000000c4048210b1a80cb40645b0c3.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000c4048210b1a80cb40645b0c3.png",
       "sizeKb": 466,
-      "category": "Kainuwa white background 2"
+      "category": "Kainuwa white background 2",
+      "hint": "Flutter apps, coding, growth"
     },
     {
       "id": "background-kainuwa-white-background-2-file-00000000ef2081f4b41e790bd577522f",
@@ -277,7 +307,8 @@
       "file": "backgrounds/Kainuwa white background 2/file_00000000ef2081f4b41e790bd577522f.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000ef2081f4b41e790bd577522f.png",
       "sizeKb": 404,
-      "category": "Kainuwa white background 2"
+      "category": "Kainuwa white background 2",
+      "hint": "Flutter, Android, programming"
     },
     {
       "id": "background-kainuwa-white-background-2-file-00000000fa2881f48b281899f0e44db5",
@@ -286,7 +317,8 @@
       "file": "backgrounds/Kainuwa white background 2/file_00000000fa2881f48b281899f0e44db5.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000fa2881f48b281899f0e44db5.png",
       "sizeKb": 499,
-      "category": "Kainuwa white background 2"
+      "category": "Kainuwa white background 2",
+      "hint": "Flutter, app dashboards, technology"
     },
     {
       "id": "background-kainuwa-white-background-2-file-00000000fb2481f4b5a118149f90abea",
@@ -295,7 +327,8 @@
       "file": "backgrounds/Kainuwa white background 2/file_00000000fb2481f4b5a118149f90abea.png",
       "preview": "backgrounds/Kainuwa white background 2/file_00000000fb2481f4b5a118149f90abea.png",
       "sizeKb": 537,
-      "category": "Kainuwa white background 2"
+      "category": "Kainuwa white background 2",
+      "hint": "Android apps, networks, app launch"
     },
     {
       "id": "icon-arrows-bent-arrow-right",
