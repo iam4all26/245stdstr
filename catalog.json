@@ -883,6 +883,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-abacus",
+      "type": "icon",
+      "name": "Abacus",
+      "file": "icons/Tabler/Math/Abacus.svg",
+      "preview": "icons/Tabler/Math/Abacus.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-accessible",
       "type": "icon",
       "name": "Accessible",
@@ -937,11 +946,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-album",
+      "type": "icon",
+      "name": "Album",
+      "file": "icons/Tabler/Media/Album.svg",
+      "preview": "icons/Tabler/Media/Album.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-alt",
       "type": "icon",
       "name": "Alt",
       "file": "icons/Tabler/Development/Alt.svg",
       "preview": "icons/Tabler/Development/Alt.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-ampersand",
+      "type": "icon",
+      "name": "Ampersand",
+      "file": "icons/Tabler/Math/Ampersand.svg",
+      "preview": "icons/Tabler/Math/Ampersand.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-anchor",
+      "type": "icon",
+      "name": "Anchor",
+      "file": "icons/Tabler/Map/Anchor.svg",
+      "preview": "icons/Tabler/Map/Anchor.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1009,6 +1045,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-aspect-ratio",
+      "type": "icon",
+      "name": "Aspect Ratio",
+      "file": "icons/Tabler/Media/Aspect Ratio.svg",
+      "preview": "icons/Tabler/Media/Aspect Ratio.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-assembly",
       "type": "icon",
       "name": "Assembly",
@@ -1072,6 +1117,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-backslash",
+      "type": "icon",
+      "name": "Backslash",
+      "file": "icons/Tabler/Math/Backslash.svg",
+      "preview": "icons/Tabler/Math/Backslash.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-baguette",
       "type": "icon",
       "name": "Baguette",
@@ -1131,6 +1185,24 @@
       "name": "Battery",
       "file": "icons/Tabler/Devices/Battery.svg",
       "preview": "icons/Tabler/Devices/Battery.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-beach",
+      "type": "icon",
+      "name": "Beach",
+      "file": "icons/Tabler/Map/Beach.svg",
+      "preview": "icons/Tabler/Map/Beach.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-bed",
+      "type": "icon",
+      "name": "Bed",
+      "file": "icons/Tabler/Map/Bed.svg",
+      "preview": "icons/Tabler/Map/Bed.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1248,6 +1320,24 @@
       "name": "Bowl",
       "file": "icons/Tabler/Food/Bowl.svg",
       "preview": "icons/Tabler/Food/Bowl.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-braces",
+      "type": "icon",
+      "name": "Braces",
+      "file": "icons/Tabler/Math/Braces.svg",
+      "preview": "icons/Tabler/Math/Braces.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-brackets",
+      "type": "icon",
+      "name": "Brackets",
+      "file": "icons/Tabler/Math/Brackets.svg",
+      "preview": "icons/Tabler/Math/Brackets.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1396,6 +1486,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-camera",
+      "type": "icon",
+      "name": "Camera",
+      "file": "icons/Tabler/Media/Camera.svg",
+      "preview": "icons/Tabler/Media/Camera.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-campfire",
+      "type": "icon",
+      "name": "Campfire",
+      "file": "icons/Tabler/Map/Campfire.svg",
+      "preview": "icons/Tabler/Map/Campfire.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-canary",
       "type": "icon",
       "name": "Canary",
@@ -1423,6 +1531,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-capture",
+      "type": "icon",
+      "name": "Capture",
+      "file": "icons/Tabler/Media/Capture.svg",
+      "preview": "icons/Tabler/Media/Capture.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-carambola",
       "type": "icon",
       "name": "Carambola",
@@ -1446,6 +1563,15 @@
       "name": "Cash",
       "file": "icons/Tabler/E-commerce/Cash.svg",
       "preview": "icons/Tabler/E-commerce/Cash.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-cast",
+      "type": "icon",
+      "name": "Cast",
+      "file": "icons/Tabler/Media/Cast.svg",
+      "preview": "icons/Tabler/Media/Cast.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1720,6 +1846,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-clef",
+      "type": "icon",
+      "name": "Clef",
+      "file": "icons/Tabler/Media/Clef.svg",
+      "preview": "icons/Tabler/Media/Clef.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-clipboard",
       "type": "icon",
       "name": "Clipboard",
@@ -1806,6 +1941,15 @@
       "name": "Column Remove",
       "file": "icons/Tabler/Database/Column Remove.svg",
       "preview": "icons/Tabler/Database/Column Remove.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-compass",
+      "type": "icon",
+      "name": "Compass",
+      "file": "icons/Tabler/Map/Compass.svg",
+      "preview": "icons/Tabler/Map/Compass.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -1945,6 +2089,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-decimal",
+      "type": "icon",
+      "name": "Decimal",
+      "file": "icons/Tabler/Math/Decimal.svg",
+      "preview": "icons/Tabler/Math/Decimal.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-deer",
       "type": "icon",
       "name": "Deer",
@@ -2022,6 +2175,15 @@
       "name": "Discount",
       "file": "icons/Tabler/E-commerce/Discount.svg",
       "preview": "icons/Tabler/E-commerce/Discount.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-divide",
+      "type": "icon",
+      "name": "Divide",
+      "file": "icons/Tabler/Math/Divide.svg",
+      "preview": "icons/Tabler/Math/Divide.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2125,6 +2287,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-equal",
+      "type": "icon",
+      "name": "Equal",
+      "file": "icons/Tabler/Math/Equal.svg",
+      "preview": "icons/Tabler/Math/Equal.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-error-404",
       "type": "icon",
       "name": "Error 404",
@@ -2134,11 +2305,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-escalator",
+      "type": "icon",
+      "name": "Escalator",
+      "file": "icons/Tabler/Map/Escalator.svg",
+      "preview": "icons/Tabler/Map/Escalator.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-eyeglass",
       "type": "icon",
       "name": "Eyeglass",
       "file": "icons/Tabler/Health/Eyeglass.svg",
       "preview": "icons/Tabler/Health/Eyeglass.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-face-mask",
+      "type": "icon",
+      "name": "Face Mask",
+      "file": "icons/Tabler/Health/Face Mask.svg",
+      "preview": "icons/Tabler/Health/Face Mask.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-fall",
+      "type": "icon",
+      "name": "Fall",
+      "file": "icons/Tabler/Health/Fall.svg",
+      "preview": "icons/Tabler/Health/Fall.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2386,11 +2584,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-first-aid-kit",
+      "type": "icon",
+      "name": "First Aid Kit",
+      "file": "icons/Tabler/Health/First Aid Kit.svg",
+      "preview": "icons/Tabler/Health/First Aid Kit.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-fish",
       "type": "icon",
       "name": "Fish",
       "file": "icons/Tabler/Animals/Fish.svg",
       "preview": "icons/Tabler/Animals/Fish.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-flag",
+      "type": "icon",
+      "name": "Flag",
+      "file": "icons/Tabler/Map/Flag.svg",
+      "preview": "icons/Tabler/Map/Flag.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-flask",
+      "type": "icon",
+      "name": "Flask",
+      "file": "icons/Tabler/Health/Flask.svg",
+      "preview": "icons/Tabler/Health/Flask.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2422,11 +2647,47 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-footsteps",
+      "type": "icon",
+      "name": "Footsteps",
+      "file": "icons/Tabler/Health/Footsteps.svg",
+      "preview": "icons/Tabler/Health/Footsteps.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-fountain",
+      "type": "icon",
+      "name": "Fountain",
+      "file": "icons/Tabler/Map/Fountain.svg",
+      "preview": "icons/Tabler/Map/Fountain.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-fridge",
       "type": "icon",
       "name": "Fridge",
       "file": "icons/Tabler/Devices/Fridge.svg",
       "preview": "icons/Tabler/Devices/Fridge.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-function",
+      "type": "icon",
+      "name": "Function",
+      "file": "icons/Tabler/Math/Function.svg",
+      "preview": "icons/Tabler/Math/Function.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-geometry",
+      "type": "icon",
+      "name": "Geometry",
+      "file": "icons/Tabler/Map/Geometry.svg",
+      "preview": "icons/Tabler/Map/Geometry.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2449,6 +2710,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-globe",
+      "type": "icon",
+      "name": "Globe",
+      "file": "icons/Tabler/Map/Globe.svg",
+      "preview": "icons/Tabler/Map/Globe.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-gps",
+      "type": "icon",
+      "name": "Gps",
+      "file": "icons/Tabler/Map/Gps.svg",
+      "preview": "icons/Tabler/Map/Gps.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-gpu",
       "type": "icon",
       "name": "Gpu",
@@ -2463,6 +2742,15 @@
       "name": "Grape",
       "file": "icons/Tabler/Food/Grape.svg",
       "preview": "icons/Tabler/Food/Grape.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-grave",
+      "type": "icon",
+      "name": "Grave",
+      "file": "icons/Tabler/Map/Grave.svg",
+      "preview": "icons/Tabler/Map/Grave.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2557,6 +2845,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-hand-sanitizer",
+      "type": "icon",
+      "name": "Hand Sanitizer",
+      "file": "icons/Tabler/Health/Hand Sanitizer.svg",
+      "preview": "icons/Tabler/Health/Hand Sanitizer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-hand-stop",
       "type": "icon",
       "name": "Hand Stop",
@@ -2593,6 +2890,42 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-headphones",
+      "type": "icon",
+      "name": "Headphones",
+      "file": "icons/Tabler/Media/Headphones.svg",
+      "preview": "icons/Tabler/Media/Headphones.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-headset",
+      "type": "icon",
+      "name": "Headset",
+      "file": "icons/Tabler/Media/Headset.svg",
+      "preview": "icons/Tabler/Media/Headset.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-heart-rate-monitor",
+      "type": "icon",
+      "name": "Heart Rate Monitor",
+      "file": "icons/Tabler/Health/Heart Rate Monitor.svg",
+      "preview": "icons/Tabler/Health/Heart Rate Monitor.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-heartbeat",
+      "type": "icon",
+      "name": "Heartbeat",
+      "file": "icons/Tabler/Health/Heartbeat.svg",
+      "preview": "icons/Tabler/Health/Heartbeat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-home",
       "type": "icon",
       "name": "Home",
@@ -2616,6 +2949,15 @@
       "name": "Horseshoe",
       "file": "icons/Tabler/Animals/Horseshoe.svg",
       "preview": "icons/Tabler/Animals/Horseshoe.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-hospital",
+      "type": "icon",
+      "name": "Hospital",
+      "file": "icons/Tabler/Health/Hospital.svg",
+      "preview": "icons/Tabler/Health/Hospital.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2737,6 +3079,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-infinity",
+      "type": "icon",
+      "name": "Infinity",
+      "file": "icons/Tabler/Math/Infinity.svg",
+      "preview": "icons/Tabler/Math/Infinity.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-invoice",
       "type": "icon",
       "name": "Invoice",
@@ -2764,6 +3115,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-keyframe",
+      "type": "icon",
+      "name": "Keyframe",
+      "file": "icons/Tabler/Media/Keyframe.svg",
+      "preview": "icons/Tabler/Media/Keyframe.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-keyframes",
+      "type": "icon",
+      "name": "Keyframes",
+      "file": "icons/Tabler/Media/Keyframes.svg",
+      "preview": "icons/Tabler/Media/Keyframes.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-lemon",
       "type": "icon",
       "name": "Lemon",
@@ -2782,11 +3151,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-live-view",
+      "type": "icon",
+      "name": "Live View",
+      "file": "icons/Tabler/Map/Live View.svg",
+      "preview": "icons/Tabler/Map/Live View.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-load-balancer",
       "type": "icon",
       "name": "Load Balancer",
       "file": "icons/Tabler/Computers/Load Balancer.svg",
       "preview": "icons/Tabler/Computers/Load Balancer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-location",
+      "type": "icon",
+      "name": "Location",
+      "file": "icons/Tabler/Map/Location.svg",
+      "preview": "icons/Tabler/Map/Location.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2809,6 +3196,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-lungs",
+      "type": "icon",
+      "name": "Lungs",
+      "file": "icons/Tabler/Health/Lungs.svg",
+      "preview": "icons/Tabler/Health/Lungs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-mail",
       "type": "icon",
       "name": "Mail",
@@ -2827,6 +3223,78 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-map",
+      "type": "icon",
+      "name": "Map",
+      "file": "icons/Tabler/Map/Map.svg",
+      "preview": "icons/Tabler/Map/Map.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-massage",
+      "type": "icon",
+      "name": "Massage",
+      "file": "icons/Tabler/Health/Massage.svg",
+      "preview": "icons/Tabler/Health/Massage.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-math",
+      "type": "icon",
+      "name": "Math",
+      "file": "icons/Tabler/Math/Math.svg",
+      "preview": "icons/Tabler/Math/Math.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-math-x-plus-x",
+      "type": "icon",
+      "name": "Math X Plus X",
+      "file": "icons/Tabler/Math/Math X Plus X.svg",
+      "preview": "icons/Tabler/Math/Math X Plus X.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-math-x-plus-y",
+      "type": "icon",
+      "name": "Math X Plus Y",
+      "file": "icons/Tabler/Math/Math X Plus Y.svg",
+      "preview": "icons/Tabler/Math/Math X Plus Y.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-math-y-plus-y",
+      "type": "icon",
+      "name": "Math Y Plus Y",
+      "file": "icons/Tabler/Math/Math Y Plus Y.svg",
+      "preview": "icons/Tabler/Math/Math Y Plus Y.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-matrix",
+      "type": "icon",
+      "name": "Matrix",
+      "file": "icons/Tabler/Math/Matrix.svg",
+      "preview": "icons/Tabler/Math/Matrix.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-maximize",
+      "type": "icon",
+      "name": "Maximize",
+      "file": "icons/Tabler/Media/Maximize.svg",
+      "preview": "icons/Tabler/Media/Maximize.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-mcp",
       "type": "icon",
       "name": "Mcp",
@@ -2841,6 +3309,15 @@
       "name": "Meat",
       "file": "icons/Tabler/Food/Meat.svg",
       "preview": "icons/Tabler/Food/Meat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-medicine-syrup",
+      "type": "icon",
+      "name": "Medicine Syrup",
+      "file": "icons/Tabler/Health/Medicine Syrup.svg",
+      "preview": "icons/Tabler/Health/Medicine Syrup.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2908,6 +3385,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-microphone",
+      "type": "icon",
+      "name": "Microphone",
+      "file": "icons/Tabler/Media/Microphone.svg",
+      "preview": "icons/Tabler/Media/Microphone.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-microscope",
+      "type": "icon",
+      "name": "Microscope",
+      "file": "icons/Tabler/Health/Microscope.svg",
+      "preview": "icons/Tabler/Health/Microscope.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-microwave",
       "type": "icon",
       "name": "Microwave",
@@ -2944,6 +3439,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-minimize",
+      "type": "icon",
+      "name": "Minimize",
+      "file": "icons/Tabler/Media/Minimize.svg",
+      "preview": "icons/Tabler/Media/Minimize.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-minus",
+      "type": "icon",
+      "name": "Minus",
+      "file": "icons/Tabler/Math/Minus.svg",
+      "preview": "icons/Tabler/Math/Minus.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-model-ai",
       "type": "icon",
       "name": "Model Ai",
@@ -2958,6 +3471,33 @@
       "name": "Moneybag",
       "file": "icons/Tabler/E-commerce/Moneybag.svg",
       "preview": "icons/Tabler/E-commerce/Moneybag.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-monkeybar",
+      "type": "icon",
+      "name": "Monkeybar",
+      "file": "icons/Tabler/Map/Monkeybar.svg",
+      "preview": "icons/Tabler/Map/Monkeybar.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-angry",
+      "type": "icon",
+      "name": "Mood Angry",
+      "file": "icons/Tabler/Mood/Mood Angry.svg",
+      "preview": "icons/Tabler/Mood/Mood Angry.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-mood-annoyed",
+      "type": "icon",
+      "name": "Mood Annoyed",
+      "file": "icons/Tabler/Mood/Mood Annoyed.svg",
+      "preview": "icons/Tabler/Mood/Mood Annoyed.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -2980,6 +3520,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-movie",
+      "type": "icon",
+      "name": "Movie",
+      "file": "icons/Tabler/Media/Movie.svg",
+      "preview": "icons/Tabler/Media/Movie.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-mug",
       "type": "icon",
       "name": "Mug",
@@ -2994,6 +3543,15 @@
       "name": "Mushroom",
       "file": "icons/Tabler/Food/Mushroom.svg",
       "preview": "icons/Tabler/Food/Mushroom.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-music",
+      "type": "icon",
+      "name": "Music",
+      "file": "icons/Tabler/Media/Music.svg",
+      "preview": "icons/Tabler/Media/Music.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3052,11 +3610,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-nurse",
+      "type": "icon",
+      "name": "Nurse",
+      "file": "icons/Tabler/Health/Nurse.svg",
+      "preview": "icons/Tabler/Health/Nurse.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-nut",
       "type": "icon",
       "name": "Nut",
       "file": "icons/Tabler/Food/Nut.svg",
       "preview": "icons/Tabler/Food/Nut.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-old",
+      "type": "icon",
+      "name": "Old",
+      "file": "icons/Tabler/Health/Old.svg",
+      "preview": "icons/Tabler/Health/Old.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-omega",
+      "type": "icon",
+      "name": "Omega",
+      "file": "icons/Tabler/Math/Omega.svg",
+      "preview": "icons/Tabler/Math/Omega.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3106,6 +3691,24 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-parentheses",
+      "type": "icon",
+      "name": "Parentheses",
+      "file": "icons/Tabler/Math/Parentheses.svg",
+      "preview": "icons/Tabler/Math/Parentheses.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-parking",
+      "type": "icon",
+      "name": "Parking",
+      "file": "icons/Tabler/Map/Parking.svg",
+      "preview": "icons/Tabler/Map/Parking.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-paw",
       "type": "icon",
       "name": "Paw",
@@ -3115,11 +3718,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-pendulum",
+      "type": "icon",
+      "name": "Pendulum",
+      "file": "icons/Tabler/Math/Pendulum.svg",
+      "preview": "icons/Tabler/Math/Pendulum.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pennant",
+      "type": "icon",
+      "name": "Pennant",
+      "file": "icons/Tabler/Map/Pennant.svg",
+      "preview": "icons/Tabler/Map/Pennant.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-pepper",
       "type": "icon",
       "name": "Pepper",
       "file": "icons/Tabler/Food/Pepper.svg",
       "preview": "icons/Tabler/Food/Pepper.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-percentage",
+      "type": "icon",
+      "name": "Percentage",
+      "file": "icons/Tabler/Math/Percentage.svg",
+      "preview": "icons/Tabler/Math/Percentage.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3142,11 +3772,65 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-photo",
+      "type": "icon",
+      "name": "Photo",
+      "file": "icons/Tabler/Media/Photo.svg",
+      "preview": "icons/Tabler/Media/Photo.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-physiotherapist",
+      "type": "icon",
+      "name": "Physiotherapist",
+      "file": "icons/Tabler/Health/Physiotherapist.svg",
+      "preview": "icons/Tabler/Health/Physiotherapist.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-pig",
       "type": "icon",
       "name": "Pig",
       "file": "icons/Tabler/Animals/Pig.svg",
       "preview": "icons/Tabler/Animals/Pig.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pill",
+      "type": "icon",
+      "name": "Pill",
+      "file": "icons/Tabler/Health/Pill.svg",
+      "preview": "icons/Tabler/Health/Pill.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pills",
+      "type": "icon",
+      "name": "Pills",
+      "file": "icons/Tabler/Health/Pills.svg",
+      "preview": "icons/Tabler/Health/Pills.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pin",
+      "type": "icon",
+      "name": "Pin",
+      "file": "icons/Tabler/Map/Pin.svg",
+      "preview": "icons/Tabler/Map/Pin.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-pinned",
+      "type": "icon",
+      "name": "Pinned",
+      "file": "icons/Tabler/Map/Pinned.svg",
+      "preview": "icons/Tabler/Map/Pinned.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3169,6 +3853,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-planet",
+      "type": "icon",
+      "name": "Planet",
+      "file": "icons/Tabler/Map/Planet.svg",
+      "preview": "icons/Tabler/Map/Planet.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-play-bug",
       "type": "icon",
       "name": "Play Bug",
@@ -3187,11 +3880,110 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-player-eject",
+      "type": "icon",
+      "name": "Player Eject",
+      "file": "icons/Tabler/Media/Player Eject.svg",
+      "preview": "icons/Tabler/Media/Player Eject.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-player-pause",
+      "type": "icon",
+      "name": "Player Pause",
+      "file": "icons/Tabler/Media/Player Pause.svg",
+      "preview": "icons/Tabler/Media/Player Pause.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-player-play",
+      "type": "icon",
+      "name": "Player Play",
+      "file": "icons/Tabler/Media/Player Play.svg",
+      "preview": "icons/Tabler/Media/Player Play.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-player-record",
+      "type": "icon",
+      "name": "Player Record",
+      "file": "icons/Tabler/Media/Player Record.svg",
+      "preview": "icons/Tabler/Media/Player Record.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-player-skip-back",
+      "type": "icon",
+      "name": "Player Skip Back",
+      "file": "icons/Tabler/Media/Player Skip Back.svg",
+      "preview": "icons/Tabler/Media/Player Skip Back.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-player-stop",
+      "type": "icon",
+      "name": "Player Stop",
+      "file": "icons/Tabler/Media/Player Stop.svg",
+      "preview": "icons/Tabler/Media/Player Stop.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-player-track-next",
+      "type": "icon",
+      "name": "Player Track Next",
+      "file": "icons/Tabler/Media/Player Track Next.svg",
+      "preview": "icons/Tabler/Media/Player Track Next.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-player-track-prev",
+      "type": "icon",
+      "name": "Player Track Prev",
+      "file": "icons/Tabler/Media/Player Track Prev.svg",
+      "preview": "icons/Tabler/Media/Player Track Prev.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-playlist",
+      "type": "icon",
+      "name": "Playlist",
+      "file": "icons/Tabler/Media/Playlist.svg",
+      "preview": "icons/Tabler/Media/Playlist.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-plug",
       "type": "icon",
       "name": "Plug",
       "file": "icons/Tabler/Devices/Plug.svg",
       "preview": "icons/Tabler/Devices/Plug.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-plunger",
+      "type": "icon",
+      "name": "Plunger",
+      "file": "icons/Tabler/Health/Plunger.svg",
+      "preview": "icons/Tabler/Health/Plunger.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-plus",
+      "type": "icon",
+      "name": "Plus",
+      "file": "icons/Tabler/Math/Plus.svg",
+      "preview": "icons/Tabler/Math/Plus.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3205,11 +3997,29 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-pokeball",
+      "type": "icon",
+      "name": "Pokeball",
+      "file": "icons/Tabler/Map/Pokeball.svg",
+      "preview": "icons/Tabler/Map/Pokeball.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-power",
       "type": "icon",
       "name": "Power",
       "file": "icons/Tabler/Devices/Power.svg",
       "preview": "icons/Tabler/Devices/Power.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-prescription",
+      "type": "icon",
+      "name": "Prescription",
+      "file": "icons/Tabler/Health/Prescription.svg",
+      "preview": "icons/Tabler/Health/Prescription.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3228,6 +4038,15 @@
       "name": "Printer",
       "file": "icons/Tabler/Devices/Printer.svg",
       "preview": "icons/Tabler/Devices/Printer.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-prison",
+      "type": "icon",
+      "name": "Prison",
+      "file": "icons/Tabler/Map/Prison.svg",
+      "preview": "icons/Tabler/Map/Prison.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3268,6 +4087,33 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-radar",
+      "type": "icon",
+      "name": "Radar",
+      "file": "icons/Tabler/Map/Radar.svg",
+      "preview": "icons/Tabler/Map/Radar.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-radio",
+      "type": "icon",
+      "name": "Radio",
+      "file": "icons/Tabler/Media/Radio.svg",
+      "preview": "icons/Tabler/Media/Radio.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-razor",
+      "type": "icon",
+      "name": "Razor",
+      "file": "icons/Tabler/Health/Razor.svg",
+      "preview": "icons/Tabler/Health/Razor.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-receipt",
       "type": "icon",
       "name": "Receipt",
@@ -3304,6 +4150,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-repeat",
+      "type": "icon",
+      "name": "Repeat",
+      "file": "icons/Tabler/Media/Repeat.svg",
+      "preview": "icons/Tabler/Media/Repeat.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-report",
       "type": "icon",
       "name": "Report",
@@ -3313,11 +4168,92 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-rewind-backward-5",
+      "type": "icon",
+      "name": "Rewind Backward 5",
+      "file": "icons/Tabler/Media/Rewind Backward 5.svg",
+      "preview": "icons/Tabler/Media/Rewind Backward 5.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-rewind-forward-10",
+      "type": "icon",
+      "name": "Rewind Forward 10",
+      "file": "icons/Tabler/Media/Rewind Forward 10.svg",
+      "preview": "icons/Tabler/Media/Rewind Forward 10.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-rewind-forward-15",
+      "type": "icon",
+      "name": "Rewind Forward 15",
+      "file": "icons/Tabler/Media/Rewind Forward 15.svg",
+      "preview": "icons/Tabler/Media/Rewind Forward 15.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-rewind-forward-20",
+      "type": "icon",
+      "name": "Rewind Forward 20",
+      "file": "icons/Tabler/Media/Rewind Forward 20.svg",
+      "preview": "icons/Tabler/Media/Rewind Forward 20.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-rewind-forward-30",
+      "type": "icon",
+      "name": "Rewind Forward 30",
+      "file": "icons/Tabler/Media/Rewind Forward 30.svg",
+      "preview": "icons/Tabler/Media/Rewind Forward 30.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-rewind-forward-5",
+      "type": "icon",
+      "name": "Rewind Forward 5",
+      "file": "icons/Tabler/Media/Rewind Forward 5.svg",
+      "preview": "icons/Tabler/Media/Rewind Forward 5.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-road",
+      "type": "icon",
+      "name": "Road",
+      "file": "icons/Tabler/Map/Road.svg",
+      "preview": "icons/Tabler/Map/Road.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-rocket",
+      "type": "icon",
+      "name": "Rocket",
+      "file": "icons/Tabler/Map/Rocket.svg",
+      "preview": "icons/Tabler/Map/Rocket.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-rocking-chair",
       "type": "icon",
       "name": "Rocking Chair",
       "file": "icons/Tabler/Buildings/Rocking Chair.svg",
       "preview": "icons/Tabler/Buildings/Rocking Chair.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-route",
+      "type": "icon",
+      "name": "Route",
+      "file": "icons/Tabler/Map/Route.svg",
+      "preview": "icons/Tabler/Map/Route.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3394,6 +4330,15 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-satellite",
+      "type": "icon",
+      "name": "Satellite",
+      "file": "icons/Tabler/Map/Satellite.svg",
+      "preview": "icons/Tabler/Map/Satellite.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-sausage",
       "type": "icon",
       "name": "Sausage",
@@ -3408,6 +4353,15 @@
       "name": "Schema",
       "file": "icons/Tabler/Database/Schema.svg",
       "preview": "icons/Tabler/Database/Schema.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-school",
+      "type": "icon",
+      "name": "School",
+      "file": "icons/Tabler/Map/School.svg",
+      "preview": "icons/Tabler/Map/School.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3462,6 +4416,15 @@
       "name": "Serverless",
       "file": "icons/Tabler/Development/Serverless.svg",
       "preview": "icons/Tabler/Development/Serverless.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-shareplay",
+      "type": "icon",
+      "name": "Shareplay",
+      "file": "icons/Tabler/Media/Shareplay.svg",
+      "preview": "icons/Tabler/Media/Shareplay.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3583,11 +4546,38 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-skull",
+      "type": "icon",
+      "name": "Skull",
+      "file": "icons/Tabler/Health/Skull.svg",
+      "preview": "icons/Tabler/Health/Skull.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-slash",
+      "type": "icon",
+      "name": "Slash",
+      "file": "icons/Tabler/Math/Slash.svg",
+      "preview": "icons/Tabler/Math/Slash.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-smart-home",
       "type": "icon",
       "name": "Smart Home",
       "file": "icons/Tabler/Buildings/Smart Home.svg",
       "preview": "icons/Tabler/Buildings/Smart Home.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-smoking",
+      "type": "icon",
+      "name": "Smoking",
+      "file": "icons/Tabler/Health/Smoking.svg",
+      "preview": "icons/Tabler/Health/Smoking.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3628,11 +4618,65 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-speakerphone",
+      "type": "icon",
+      "name": "Speakerphone",
+      "file": "icons/Tabler/Media/Speakerphone.svg",
+      "preview": "icons/Tabler/Media/Speakerphone.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-spider",
       "type": "icon",
       "name": "Spider",
       "file": "icons/Tabler/Animals/Spider.svg",
       "preview": "icons/Tabler/Animals/Spider.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-stairs",
+      "type": "icon",
+      "name": "Stairs",
+      "file": "icons/Tabler/Map/Stairs.svg",
+      "preview": "icons/Tabler/Map/Stairs.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-stethoscope",
+      "type": "icon",
+      "name": "Stethoscope",
+      "file": "icons/Tabler/Health/Stethoscope.svg",
+      "preview": "icons/Tabler/Health/Stethoscope.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-subtitles",
+      "type": "icon",
+      "name": "Subtitles",
+      "file": "icons/Tabler/Media/Subtitles.svg",
+      "preview": "icons/Tabler/Media/Subtitles.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sum",
+      "type": "icon",
+      "name": "Sum",
+      "file": "icons/Tabler/Math/Sum.svg",
+      "preview": "icons/Tabler/Math/Sum.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-sunglasses",
+      "type": "icon",
+      "name": "Sunglasses",
+      "file": "icons/Tabler/Health/Sunglasses.svg",
+      "preview": "icons/Tabler/Health/Sunglasses.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3709,6 +4753,60 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-tallymark-1",
+      "type": "icon",
+      "name": "Tallymark 1",
+      "file": "icons/Tabler/Math/Tallymark 1.svg",
+      "preview": "icons/Tabler/Math/Tallymark 1.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tallymark-2",
+      "type": "icon",
+      "name": "Tallymark 2",
+      "file": "icons/Tabler/Math/Tallymark 2.svg",
+      "preview": "icons/Tabler/Math/Tallymark 2.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tallymark-3",
+      "type": "icon",
+      "name": "Tallymark 3",
+      "file": "icons/Tabler/Math/Tallymark 3.svg",
+      "preview": "icons/Tabler/Math/Tallymark 3.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tallymark-4",
+      "type": "icon",
+      "name": "Tallymark 4",
+      "file": "icons/Tabler/Math/Tallymark 4.svg",
+      "preview": "icons/Tabler/Math/Tallymark 4.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tallymarks",
+      "type": "icon",
+      "name": "Tallymarks",
+      "file": "icons/Tabler/Math/Tallymarks.svg",
+      "preview": "icons/Tabler/Math/Tallymarks.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-target",
+      "type": "icon",
+      "name": "Target",
+      "file": "icons/Tabler/Map/Target.svg",
+      "preview": "icons/Tabler/Map/Target.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-tax",
       "type": "icon",
       "name": "Tax",
@@ -3723,6 +4821,33 @@
       "name": "Teapot",
       "file": "icons/Tabler/Food/Teapot.svg",
       "preview": "icons/Tabler/Food/Teapot.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-tent",
+      "type": "icon",
+      "name": "Tent",
+      "file": "icons/Tabler/Map/Tent.svg",
+      "preview": "icons/Tabler/Map/Tent.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-theater",
+      "type": "icon",
+      "name": "Theater",
+      "file": "icons/Tabler/Map/Theater.svg",
+      "preview": "icons/Tabler/Map/Theater.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-thermometer",
+      "type": "icon",
+      "name": "Thermometer",
+      "file": "icons/Tabler/Health/Thermometer.svg",
+      "preview": "icons/Tabler/Health/Thermometer.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3889,6 +5014,42 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-tree",
+      "type": "icon",
+      "name": "Tree",
+      "file": "icons/Tabler/Map/Tree.svg",
+      "preview": "icons/Tabler/Map/Tree.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-trees",
+      "type": "icon",
+      "name": "Trees",
+      "file": "icons/Tabler/Map/Trees.svg",
+      "preview": "icons/Tabler/Map/Trees.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-vaccine",
+      "type": "icon",
+      "name": "Vaccine",
+      "file": "icons/Tabler/Health/Vaccine.svg",
+      "preview": "icons/Tabler/Health/Vaccine.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-variable",
+      "type": "icon",
+      "name": "Variable",
+      "file": "icons/Tabler/Math/Variable.svg",
+      "preview": "icons/Tabler/Math/Variable.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-versions",
       "type": "icon",
       "name": "Versions",
@@ -3898,11 +5059,56 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-video",
+      "type": "icon",
+      "name": "Video",
+      "file": "icons/Tabler/Media/Video.svg",
+      "preview": "icons/Tabler/Media/Video.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-vinyl",
       "type": "icon",
       "name": "Vinyl",
       "file": "icons/Tabler/Devices/Vinyl.svg",
       "preview": "icons/Tabler/Devices/Vinyl.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-virus",
+      "type": "icon",
+      "name": "Virus",
+      "file": "icons/Tabler/Health/Virus.svg",
+      "preview": "icons/Tabler/Health/Virus.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-voice",
+      "type": "icon",
+      "name": "Voice",
+      "file": "icons/Tabler/Media/Voice.svg",
+      "preview": "icons/Tabler/Media/Voice.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-volcano",
+      "type": "icon",
+      "name": "Volcano",
+      "file": "icons/Tabler/Map/Volcano.svg",
+      "preview": "icons/Tabler/Map/Volcano.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-volume",
+      "type": "icon",
+      "name": "Volume",
+      "file": "icons/Tabler/Media/Volume.svg",
+      "preview": "icons/Tabler/Media/Volume.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3921,6 +5127,15 @@
       "name": "Wallet",
       "file": "icons/Tabler/E-commerce/Wallet.svg",
       "preview": "icons/Tabler/E-commerce/Wallet.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-waveform",
+      "type": "icon",
+      "name": "Waveform",
+      "file": "icons/Tabler/Media/Waveform.svg",
+      "preview": "icons/Tabler/Media/Waveform.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -3961,11 +5176,47 @@
       "category": "Tabler"
     },
     {
+      "id": "icon-tabler-windmill",
+      "type": "icon",
+      "name": "Windmill",
+      "file": "icons/Tabler/Map/Windmill.svg",
+      "preview": "icons/Tabler/Map/Windmill.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
       "id": "icon-tabler-window",
       "type": "icon",
       "name": "Window",
       "file": "icons/Tabler/Buildings/Window.svg",
       "preview": "icons/Tabler/Buildings/Window.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-windsock",
+      "type": "icon",
+      "name": "Windsock",
+      "file": "icons/Tabler/Map/Windsock.svg",
+      "preview": "icons/Tabler/Map/Windsock.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-world",
+      "type": "icon",
+      "name": "World",
+      "file": "icons/Tabler/Map/World.svg",
+      "preview": "icons/Tabler/Map/World.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-x-power-y",
+      "type": "icon",
+      "name": "X Power Y",
+      "file": "icons/Tabler/Math/X Power Y.svg",
+      "preview": "icons/Tabler/Math/X Power Y.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
@@ -4011,6 +5262,15 @@
       "name": "Zero Config",
       "file": "icons/Tabler/Development/Zero Config.svg",
       "preview": "icons/Tabler/Development/Zero Config.svg",
+      "sizeKb": 1,
+      "category": "Tabler"
+    },
+    {
+      "id": "icon-tabler-zoom",
+      "type": "icon",
+      "name": "Zoom",
+      "file": "icons/Tabler/Map/Zoom.svg",
+      "preview": "icons/Tabler/Map/Zoom.svg",
       "sizeKb": 1,
       "category": "Tabler"
     },
